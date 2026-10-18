@@ -1,8 +1,4 @@
-# NPWR Identifiers in This Folder
 
-Total unique NPWR identifiers found: 1655
-
-This list was generated from all directories matching NPWR#####_## found under the current folder. One duplicate folder name (NPWR03622_00) appears in a nested location, so this README lists each unique NPWR identifier once.
 
 ## Set 1
 

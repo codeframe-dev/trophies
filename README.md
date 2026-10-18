@@ -1,1708 +1,1694 @@
+# NPWR Identifiers in This Folder
 
+Total unique NPWR identifiers found: 1655
 
-## Set 1
+Each identifier is paired with the trophy title name parsed from the matching `TROPCONF.SFM` file.
 
-- NPWR00002_00
-- NPWR00036_00
-- NPWR00132_00
-- NPWR00133_00
-- NPWR00134_00
-- NPWR00153_00
-- NPWR00156_00
-- NPWR00160_00
-- NPWR00163_00
-- NPWR00179_00
-- NPWR00180_00
-- NPWR00187_00
-- NPWR00194_00
-- NPWR00206_00
-- NPWR00212_00
-- NPWR00214_00
-- NPWR00234_00
-- NPWR00245_00
-- NPWR00251_00
-- NPWR00254_00
-- NPWR00261_00
-- NPWR00273_00
-- NPWR00287_00
-- NPWR00288_00
-- NPWR00291_00
-- NPWR00295_00
-- NPWR00300_00
-- NPWR00302_00
-- NPWR00305_00
-- NPWR00312_00
-- NPWR00314_00
-- NPWR00319_00
-- NPWR00323_00
-- NPWR00324_00
-- NPWR00328_00
-- NPWR00331_00
-- NPWR00338_00
-- NPWR00339_00
-- NPWR00345_00
-- NPWR00352_00
-- NPWR00357_00
-- NPWR00359_00
-- NPWR00373_00
-- NPWR00374_00
-- NPWR00375_00
-- NPWR00380_00
-- NPWR00390_00
-- NPWR00399_00
-- NPWR00400_00
-- NPWR00404_00
-- NPWR00409_00
-- NPWR00410_00
-- NPWR00416_00
-- NPWR00419_00
-- NPWR00426_00
-- NPWR00429_00
-- NPWR00430_00
-- NPWR00434_00
-- NPWR00439_00
-- NPWR00440_00
-- NPWR00441_00
-- NPWR00442_00
-- NPWR00447_00
-- NPWR00449_00
-- NPWR00450_00
-- NPWR00455_00
-- NPWR00461_00
-- NPWR00462_00
-- NPWR00464_00
-- NPWR00466_00
-- NPWR00467_00
-- NPWR00468_00
-- NPWR00471_00
-- NPWR00472_00
-- NPWR00478_00
-- NPWR00481_00
-- NPWR00482_00
-- NPWR00483_00
-- NPWR00484_00
-- NPWR00485_00
-- NPWR00493_00
-- NPWR00494_00
-- NPWR00497_00
-- NPWR00498_00
-- NPWR00499_00
-- NPWR00501_00
-- NPWR00502_00
-- NPWR00504_00
-- NPWR00507_00
-- NPWR00508_00
-- NPWR00510_00
-- NPWR00512_00
-- NPWR00513_00
-- NPWR00514_00
-- NPWR00516_00
-- NPWR00518_00
-- NPWR00519_00
-- NPWR00525_00
-- NPWR00528_00
-- NPWR00530_00
+## Root-level
 
-## Set 2
+- NPWR00002_00 ? THE EYE OF JUDGMENT™ Trophies
+- NPWR00036_00 ? SingStar®
+- NPWR00132_00 ? GTA IV
+- NPWR00133_00 ? Just Cause 2
+- NPWR00134_00 ? MOBILE SUIT GUNDAM BATTLEFIELD RECORD U.C.0081
+- NPWR00153_00 ? Killzone 2
+- NPWR00156_00 ? Star Wars: The Force Unleashed
+- NPWR00160_00 ? LittleBigPlanet™
+- NPWR00163_00 ? Warhawk
+- NPWR00179_00 ? Pure Trophies
+- NPWR00180_00 ? Midnight Club: Los Angeles
+- NPWR00187_00 ? WipEout® HD Trophies
+- NPWR00194_00 ? Unreal Tournament ® 3
+- NPWR00206_00 ? The Chronicles of Riddick™ Assault on Dark Athena
+- NPWR00212_00 ? Ferrari Challenge
+- NPWR00214_00 ? MotorStorm®: Pacific Rift
+- NPWR00234_00 ? Burnout™ Paradise
+- NPWR00245_00 ? Demon's Souls
+- NPWR00251_00 ? WET
+- NPWR00254_00 ? Red Faction: Guerrilla
+- NPWR00261_00 ? [PROTOTYPE]™
+- NPWR00273_00 ? BattleFantasia
+- NPWR00287_00 ? Ferrari Racing Legends
+- NPWR00288_00 ? Damnation™
+- NPWR00291_00 ? Resistance 2™
+- NPWR00295_00 ? Twisted Metal™
+- NPWR00300_00 ? ModNation™ Racers
+- NPWR00302_00 ? SOCOM: U.S. NAVY SEALS CONFRONTATION
+- NPWR00305_00 ? Bionic Commando
+- NPWR00312_00 ? ACE COMBAT ASSAULT HORIZON
+- NPWR00314_00 ? 白騎士物語®－古の鼓動－トロフィーセット
+- NPWR00319_00 ? Tom Clancy’s H.A.W.X
+- NPWR00323_00 ? Battlefield: Bad Company
+- NPWR00324_00 ? HEAVY RAIN™
+- NPWR00328_00 ? Kane & Lynch 2: Dog Days
+- NPWR00331_00 ? DRIVER San Francisco
+- NPWR00338_00 ? Virtua Tennis 2009
+- NPWR00339_00 ? Mercenaries 2: World in Flames™
+- NPWR00345_00 ? GHOSTBUSTERS™: The Video Game
+- NPWR00352_00 ? BioShock
+- NPWR00357_00 ? FIFA 09
+- NPWR00359_00 ? Quantum of Solace
+- NPWR00373_00 ? THE KING OF FIGHTERS XII
+- NPWR00374_00 ? Prince of Persia
+- NPWR00375_00 ? Stormrise
+- NPWR00380_00 ? MAG™
+- NPWR00390_00 ? Shaun White Snowboarding
+- NPWR00399_00 ? AQUANAUT'S HOLIDAY ™　～隠された記録～
+- NPWR00400_00 ? 魔界戦記ディスガイア３
+- NPWR00404_00 ? RESIDENT EVIL 5
+- NPWR00409_00 ? SPELUNKER HD
+- NPWR00410_00 ? Buzz!™: Quiz TV
+- NPWR00416_00 ? Disgaea 3
+- NPWR00419_00 ? Far Cry® 2
+- NPWR00426_00 ? Sonic & SEGA All-Stars Racing
+- NPWR00429_00 ? DiRT 2
+- NPWR00430_00 ? Skate 2
+- NPWR00434_00 ? STREET FIGHTER Ⅳ Trophy pack.
+- NPWR00439_00 ? UFC 2009 Undisputed
+- NPWR00440_00 ? Rock Band 2
+- NPWR00441_00 ? Tom Clancy's EndWar™
+- NPWR00442_00 ? Transformers : La Revanche
+- NPWR00447_00 ? Sacred 2 - Fallen Angel
 
-- NPWR00533_00
-- NPWR00535_00
-- NPWR00537_00
-- NPWR00538_00
-- NPWR00539_00
-- NPWR00540_00
-- NPWR00546_00
-- NPWR00551_00
-- NPWR00552_00
-- NPWR00553_00
-- NPWR00558_00
-- NPWR00560_00
-- NPWR00561_00
-- NPWR00563_00
-- NPWR00564_00
-- NPWR00565_00
-- NPWR00567_00
-- NPWR00575_00
-- NPWR00576_00
-- NPWR00578_00
-- NPWR00580_00
-- NPWR00581_00
-- NPWR00582_00
-- NPWR00584_00
-- NPWR00599_00
-- NPWR00600_00
-- NPWR00603_00
-- NPWR00605_00
-- NPWR00606_00
-- NPWR00607_00
-- NPWR00608_00
-- NPWR00611_00
-- NPWR00612_00
-- NPWR00614_00
-- NPWR00615_00
-- NPWR00617_00
-- NPWR00619_00
-- NPWR00620_00
-- NPWR00621_00
-- NPWR00623_00
-- NPWR00624_00
-- NPWR00626_00
-- NPWR00628_00
-- NPWR00630_00
-- NPWR00631_00
-- NPWR00632_00
-- NPWR00633_00
-- NPWR00634_00
-- NPWR00635_00
-- NPWR00637_00
-- NPWR00638_00
-- NPWR00640_00
-- NPWR00642_00
-- NPWR00643_00
-- NPWR00644_00
-- NPWR00646_00
-- NPWR00647_00
-- NPWR00650_00
-- NPWR00651_00
-- NPWR00654_00
-- NPWR00656_00
-- NPWR00657_00
-- NPWR00659_00
-- NPWR00660_00
-- NPWR00661_00
-- NPWR00663_00
-- NPWR00665_00
-- NPWR00666_00
-- NPWR00667_00
-- NPWR00668_00
-- NPWR00669_00
-- NPWR00672_00
-- NPWR00673_00
-- NPWR00675_00
-- NPWR00676_00
-- NPWR00677_00
-- NPWR00678_00
-- NPWR00685_00
-- NPWR00687_00
-- NPWR00688_00
-- NPWR00691_00
-- NPWR00697_00
-- NPWR00698_00
-- NPWR00699_00
-- NPWR00700_00
-- NPWR00701_00
-- NPWR00702_00
-- NPWR00703_00
-- NPWR00708_00
-- NPWR00709_00
-- NPWR00710_00
-- NPWR00711_00
-- NPWR00712_00
-- NPWR00716_00
-- NPWR00717_00
-- NPWR00720_00
-- NPWR00721_00
-- NPWR00722_00
-- NPWR00726_00
-- NPWR00731_00
+- NPWR00449_00 ? Uncharted: Drake's Fortune™
+- NPWR00450_00 ? Blitz: The League II
+- NPWR00455_00 ? Wolfenstein™
+- NPWR00461_00 ? Aliens vs Predator
+- NPWR00462_00 ? Uncharted 2: Among Thieves™
+- NPWR00464_00 ? Dead Space™
+- NPWR00466_00 ? Wheelman
+- NPWR00467_00 ? Call of Duty®: World at War
+- NPWR00468_00 ? F.E.A.R. 2: Project Origin
+- NPWR00471_00 ? NBA 09 The Inside
+- NPWR00472_00 ? Ride to Hell: Retribution
+- NPWR00478_00 ? Guitar Hero Metallica
+- NPWR00481_00 ? FUEL™
+- NPWR00482_00 ? TEKKEN 6 Trophy Set
+- NPWR00483_00 ? Monsters vs. Aliens (TM)
+- NPWR00484_00 ? Aliens: Colonial Marines
+- NPWR00485_00 ? Buzz!™: Brain of...
+- NPWR00493_00 ? UP
+- NPWR00494_00 ? Brütal Legend
+- NPWR00497_00 ? Mortal Kombat vs. DC Universe
+- NPWR00498_00 ? Command & Conquer™ Red Alert™ 3
+- NPWR00499_00 ? Mirror's Edge™
+- NPWR00501_00 ? Wolverine Trophies
+- NPWR00502_00 ? Singularity Trophies
+- NPWR00504_00 ? SAW
+- NPWR00507_00 ? SONIC UNLEASHED
+- NPWR00508_00 ? 龍が如く３
+- NPWR00510_00 ? Call of Juarez: Bound in Blood
+- NPWR00512_00 ? Wanted
+- NPWR00513_00 ? Split/Second
+- NPWR00514_00 ? Trivial Pursuit
+- NPWR00516_00 ? NCAA® Football 10
+- NPWR00518_00 ? The Godfather™ II
+- NPWR00519_00 ? WWE Legends Of WrestleMania
+- NPWR00525_00 ? SONIC WORLD ADVENTURE
+- NPWR00528_00 ? SBK® Superbike World Championship
+- NPWR00530_00 ? Harry Potter and the Half-Blood Prince™
+- NPWR00533_00 ? X-Blades
+- NPWR00535_00 ? Ski-Doo Snowmobile Challenge
+- NPWR00537_00 ? The Lord of the Rings: Conquest™
+- NPWR00538_00 ? MLB 09 The Show
+- NPWR00539_00 ? World of Outlaws Sprint Cars
+- NPWR00540_00 ? Buzz!™: Quiz World
+- NPWR00546_00 ? Need for Speed™ Undercover
+- NPWR00551_00 ? Overlord II
+- NPWR00552_00 ? 大航海時代 Online
+- NPWR00553_00 ? Sports Champions™
+- NPWR00558_00 ? Katamari Forever
+- NPWR00560_00 ? Vancouver 2010™
+- NPWR00561_00 ? Marvel: Ultimate Alliance 2
+- NPWR00563_00 ? Alone In The Dark
+- NPWR00564_00 ? Supercar Challenge
+- NPWR00565_00 ? Eat Lead
+- NPWR00567_00 ? Blur
+- NPWR00575_00 ? 真・三國無双５ Empires
+- NPWR00576_00 ? Major League Baseball 2K9
+- NPWR00578_00 ? Backbreaker
+- NPWR00580_00 ? Call of Duty Classic Trophies
+- NPWR00581_00 ? NHL 2K10
+- NPWR00582_00 ? NBA 2K10
+- NPWR00584_00 ? Sonic's Ultimate Genesis Collection
+- NPWR00599_00 ? Need for Speed™ SHIFT
 
-## Set 3
+- NPWR00600_00 ? Heroes Over Europe
+- NPWR00603_00 ? FALLOUT 3
+- NPWR00605_00 ? QUANTUM THEORY
+- NPWR00606_00 ? Guitar Hero Van Halen
+- NPWR00607_00 ? BioShock
+- NPWR00608_00 ? WWE SmackDown vs. RAW 2010
+- NPWR00611_00 ? EyePet™
+- NPWR00612_00 ? Borderlands™
+- NPWR00614_00 ? トゥームレイダー：アンダーワールド
+- NPWR00615_00 ? The Shoot™
+- NPWR00617_00 ? Trophées FIGHT NIGHT ROUND 4
+- NPWR00619_00 ? SEGA MEGA DRIVE Ultimate Collection
+- NPWR00620_00 ? Nat Geo Quiz! Wild Life
+- NPWR00621_00 ? MiNi NiNJAS™
+- NPWR00623_00 ? Terminator Salvation
+- NPWR00624_00 ? Jurassic: The Hunted
+- NPWR00626_00 ? Batman: Arkham Asylum
+- NPWR00628_00 ? 無双OROCHI Z
+- NPWR00630_00 ? Skate 2
+- NPWR00631_00 ? Dragon Ball: Raging Blast
 
-- NPWR00732_00
-- NPWR00736_00
-- NPWR00741_00
-- NPWR00742_00
-- NPWR00743_00
-- NPWR00745_00
-- NPWR00746_00
-- NPWR00747_00
-- NPWR00753_00
-- NPWR00755_00
-- NPWR00757_00
-- NPWR00758_00
-- NPWR00759_00
-- NPWR00761_00
-- NPWR00768_00
-- NPWR00770_00
-- NPWR00771_00
-- NPWR00772_00
-- NPWR00773_00
-- NPWR00774_00
-- NPWR00776_00
-- NPWR00777_00
-- NPWR00780_00
-- NPWR00783_00
-- NPWR00785_00
-- NPWR00787_00
-- NPWR00788_00
-- NPWR00791_00
-- NPWR00793_00
-- NPWR00797_00
-- NPWR00798_00
-- NPWR00801_00
-- NPWR00802_00
-- NPWR00804_00
-- NPWR00805_00
-- NPWR00807_00
-- NPWR00808_00
-- NPWR00809_00
-- NPWR00813_00
-- NPWR00817_00
-- NPWR00819_00
-- NPWR00823_00
-- NPWR00825_00
-- NPWR00826_00
-- NPWR00827_00
-- NPWR00830_00
-- NPWR00842_00
-- NPWR00844_00
-- NPWR00845_00
-- NPWR00848_00
-- NPWR00849_00
-- NPWR00850_00
-- NPWR00851_00
-- NPWR00855_00
-- NPWR00856_00
-- NPWR00858_00
-- NPWR00859_00
-- NPWR00860_00
-- NPWR00861_00
-- NPWR00862_00
-- NPWR00866_00
-- NPWR00867_00
-- NPWR00870_00
-- NPWR00874_00
-- NPWR00881_00
-- NPWR00884_00
-- NPWR00885_00
-- NPWR00891_00
-- NPWR00894_00
-- NPWR00899_00
-- NPWR00900_00
-- NPWR00901_00
-- NPWR00906_00
-- NPWR00908_00
-- NPWR00909_00
-- NPWR00913_00
-- NPWR00915_00
-- NPWR00926_00
-- NPWR00928_00
-- NPWR00933_00
-- NPWR00934_00
-- NPWR00935_00
-- NPWR00938_00
-- NPWR00939_00
-- NPWR00940_00
-- NPWR00941_00
-- NPWR00946_00
-- NPWR00947_00
-- NPWR00949_00
-- NPWR00950_00
-- NPWR00951_00
-- NPWR00956_00
-- NPWR00962_00
-- NPWR00967_00
-- NPWR00968_00
-- NPWR00982_00
-- NPWR00985_00
-- NPWR00986_00
-- NPWR00987_00
-- NPWR00989_00
+- NPWR00632_00 ? DYNASTY WARRIORS: GUNDAM 2
+- NPWR00633_00 ? Star Wars™ The Clone Wars™ Republic Heroes™ Trophies
+- NPWR00634_00 ? SBK®09 Superbike World Championship
+- NPWR00635_00 ? Cabela's Big Game Hunter 2010
+- NPWR00637_00 ? NARUTO SHIPPUDEN™: Ultimate Ninja®: STORM 2
+- NPWR00638_00 ? NHL® 10 Trophies
+- NPWR00640_00 ? Tiger Woods PGA TOUR® 10
+- NPWR00642_00 ? テイルズ オブ ヴェスペリア
+- NPWR00643_00 ? プロ野球スピリッツ６
+- NPWR00644_00 ? Alpha Protocol trophy set
+- NPWR00646_00 ? SPLATTERHOUSE
+- NPWR00647_00 ? Rugby League Live Trophy Set
+- NPWR00650_00 ? L.A. Noire
+- NPWR00651_00 ? Gran Turismo 5
+- NPWR00654_00 ? The Beatles: Rock Band
+- NPWR00656_00 ? BLAZBLUE Trophy
+- NPWR00657_00 ? Pure Football Trophies
+- NPWR00659_00 ? Chaotic™: Shadow Warriors
+- NPWR00660_00 ? inFamous
+- NPWR00661_00 ? James Bond 007: Blood Stone
+- NPWR00663_00 ? Cabela's® Outdoor Adventures
+- NPWR00665_00 ? Anarchy: Rush Hour
+- NPWR00666_00 ? MotoGP 09/10
+- NPWR00667_00 ? Winning Post World
+- NPWR00668_00 ? Rogue Warrior
+- NPWR00669_00 ? Where the Wild Things Are
+- NPWR00672_00 ? Front Mission Evolved™
+- NPWR00673_00 ? Pro Evolution Soccer 2010
+- NPWR00675_00 ? MX vs ATV Reflex Trophies
+- NPWR00676_00 ? Hannah Montana The Movie
+- NPWR00677_00 ? Guitar Hero® Smash Hits
+- NPWR00678_00 ? Superstars® V8 Racing
+- NPWR00685_00 ? Army of TWO™: The 40th Day
+- NPWR00687_00 ? Leisure Suit Larry® Box Office Bust™
+- NPWR00688_00 ? Ashes Cricket 2009
+- NPWR00691_00 ? Cross Edge
+- NPWR00697_00 ? Ice Age 3
+- NPWR00698_00 ? Dark Void
+- NPWR00699_00 ? Dead Rising 2
+- NPWR00700_00 ? The BIGS 2
+- NPWR00701_00 ? G-Force
+- NPWR00702_00 ? Hasbro Family Game Night
+- NPWR00703_00 ? Wanted
+- NPWR00708_00 ? Karaoke Revolution
+- NPWR00709_00 ? IL-2 Sturmovik: Birds of Prey
+- NPWR00710_00 ? Fritz Chess
+- NPWR00711_00 ? Guitar Hero 5
+- NPWR00712_00 ? ロロナのアトリエ
+～アーランドの錬金術士～
+- NPWR00716_00 ? Tomb Raider: Underworld
+- NPWR00717_00 ? ティアーズ・トゥ・ティアラ 外伝 アヴァロンの謎
+- NPWR00720_00 ? Dynasty Warriors 6 Empires
+- NPWR00721_00 ? G.I. JOE™
+- NPWR00722_00 ? BioShock 2
+- NPWR00726_00 ? Alien Breed: Impact
+- NPWR00731_00 ? Death Track: Resurrection
+- NPWR00732_00 ? HISTORY™ Great Battles Medieval
+- NPWR00736_00 ? Madden NFL 10
+- NPWR00741_00 ? R.U.S.E.
+- NPWR00742_00 ? G.I. JOE
+- NPWR00743_00 ? Winter Sports 2010
+- NPWR00745_00 ? Dante's Inferno™
+- NPWR00746_00 ? Toy Story 3
+- NPWR00747_00 ? Planet 51: THE GAME
+- NPWR00753_00 ? ４２８
+～封鎖された渋谷で～
+- NPWR00755_00 ? FIFA 10
+- NPWR00757_00 ? NINJA GAIDEN Σ2
+- NPWR00758_00 ? Record of Agarest War Zero
+- NPWR00759_00 ? Trinity Universe
+- NPWR00761_00 ? トロともりもり
+- NPWR00768_00 ? Under Siege
+- NPWR00770_00 ? Band Hero
+- NPWR00771_00 ? CLOUDY WITH A CHANCE OF MEATBALLS™
+- NPWR00772_00 ? Mafia II
+- NPWR00773_00 ? Spec Ops: The Line
+- NPWR00774_00 ? FINAL FANTASY XIII
+- NPWR00776_00 ? NBA LIVE 10
+- NPWR00777_00 ? DJ Hero
+- NPWR00780_00 ? Earth Defense Force®: Insect Armageddon™
+- NPWR00783_00 ? 真・三國無双 MULTI RAID Special
+- NPWR00785_00 ? Disney Sing It: Pop Hits
+- NPWR00787_00 ? AFRIKA
+- NPWR00788_00 ? UFC® Undisputed™ 2010
+- NPWR00791_00 ? Modern Warfare® 2
+- NPWR00793_00 ? ジャンライン　アール
+- NPWR00797_00 ? Madagascar Kartz
+- NPWR00798_00 ? Cars: Race-O-Rama
+- NPWR00801_00 ? God of War® III
+- NPWR00802_00 ? God of War: Ascension™
+- NPWR00804_00 ? 50 Cent: Blood On The Sand™
+- NPWR00805_00 ? Trine
+- NPWR00807_00 ? Top Spin 4
+- NPWR00808_00 ? LEGO® Indiana Jones™ 2: The Adventure Continues
+- NPWR00809_00 ? Dead To Rights: Retribution
+- NPWR00813_00 ? DanceDanceRevolution
+- NPWR00817_00 ? DARK SOULS
+- NPWR00819_00 ? F.E.A.R. 2: Project Origin
+- NPWR00823_00 ? Operation Flashpoint®: Dragon Rising™
+- NPWR00825_00 ? The Saboteur
+- NPWR00826_00 ? F1 2010™
+- NPWR00827_00 ? Disgaea 3
+- NPWR00830_00 ? RAGE®
+- NPWR00842_00 ? EA SPORTS™ GRAND SLAM® TENNIS 2
+- NPWR00844_00 ? 龍が如く３ PLAYSTATION®3 the Best
+- NPWR00845_00 ? Dragon Age: Origins
+- NPWR00848_00 ? Tom Clancy's Ghost Recon Future Soldier™
+- NPWR00849_00 ? Cross Edge
+- NPWR00850_00 ? Tony Hawk: RIDE
+- NPWR00851_00 ? BAYONETTA
+- NPWR00855_00 ? Warhammer 40,000: Space Marine
+- NPWR00856_00 ? LEGO Rock Band
+- NPWR00858_00 ? Wizardry 囚われし魂の迷宮
+- NPWR00859_00 ? 龍が如く４　伝説を継ぐもの
+- NPWR00860_00 ? Tornado Outbreak
+- NPWR00861_00 ? WORLD SOCCER Winning Eleven 2010
+- NPWR00862_00 ? Pro Evolution Soccer 2010
+- NPWR00866_00 ? TORO ! Let's Party !
+- NPWR00867_00 ? Red Dead Redemption
+- NPWR00870_00 ? Fairytale Fights®
+- NPWR00874_00 ? Bakugan Battle Brawlers™
+- NPWR00881_00 ? Demon's Souls
+- NPWR00884_00 ? 侍道３plus
+- NPWR00885_00 ? Way of the Samurai 3
+- NPWR00891_00 ? Transformers: War for Cybertron
+- NPWR00894_00 ? Assassin's Creed II™
+- NPWR00899_00 ? MOTORSTORM: APOCALYPSE
+- NPWR00900_00 ? Naughty Bear
+- NPWR00901_00 ? NASCAR The Game 2011
+- NPWR00906_00 ? CATHERINE Trophy
+- NPWR00908_00 ? NCAA® Basketball 10
+- NPWR00909_00 ? Way of the Samurai 3
+- NPWR00913_00 ? Shrek Forever After
+- NPWR00915_00 ? Warriors: Legends of Troy
+- NPWR00926_00 ? Scene It?® Bright Lights! Big Screen!
+- NPWR00928_00 ? LOST PLANET 2
+- NPWR00933_00 ? Record of Agarest War Zero
+- NPWR00934_00 ? SBK®X Superbike World Championship
+- NPWR00935_00 ? Superstars® V8 Next Challenge
+- NPWR00938_00 ? SUPER STREET FIGHTER Ⅳ
+- NPWR00939_00 ? MLB 10 The Show
+- NPWR00940_00 ? White Knight Chronicles™ Colección de trofeos
+- NPWR00941_00 ? Ratchet & Clank: A Crack in Time
+- NPWR00946_00 ? James Cameron's AVATAR™: THE GAME
+- NPWR00947_00 ? 3Dドットゲームヒーローズ
+- NPWR00949_00 ? Prison Break
+- NPWR00950_00 ? God of War® Trophies
+- NPWR00951_00 ? God of War® II Trophies
+- NPWR00956_00 ? Dead Island
+- NPWR00962_00 ? NHL® 11 Trophies
+- NPWR00967_00 ? WWE SmackDown vs. RAW 2011
+- NPWR00968_00 ? 真・三國無双 Online
+- NPWR00982_00 ? NBA 2K10
+- NPWR00985_00 ? Rock Band 3
+- NPWR00986_00 ? Darksiders
+- NPWR00987_00 ? End of Eternity
+- NPWR00989_00 ? Major League Baseball 2K10
+- NPWR00990_00 ? Last Rebellion
+- NPWR00993_00 ? Red Seeds Profile
+- NPWR00994_00 ? LEGO® Indiana Jones™ 2: The Adventure Continues
+- NPWR00996_00 ? Record of Agarest War
+- NPWR00997_00 ? STAR OCEAN® THE LAST HOPE® -INTERNATIONAL-
+- NPWR00999_00 ? Legend of the Guardians: The Owls of Ga'hoole Trophy Set
+- NPWR01002_00 ? Skate 3
+- NPWR01003_00 ? 진・삼국무쌍 MULTI RAID Special
+- NPWR01004_00 ? 真・三國無雙 MULTI RAID Special
+- NPWR01005_00 ? Sacred 2 - Fallen Angel
 
-## Set 4
+- NPWR01006_00 ? Battlefield: Bad Company™ 2
+- NPWR01007_00 ? Dead Nation™
+- NPWR01008_00 ? Ratchet & Clank: All 4 One
+- NPWR01012_00 ? Batman: Arkham Asylum
+- NPWR01013_00 ? Start the Party!™
+- NPWR01021_00 ? Green Day: Rock Band
+- NPWR01022_00 ? 2010 FIFA World Cup™
+- NPWR01023_00 ? アルトネリコ３
+～世界終焉の引鉄は少女の詩が弾く～
+- NPWR01024_00 ? 北斗無双
+- NPWR01028_00 ? ANARCHY REIGNS
+- NPWR01031_00 ? Section 8
+- NPWR01032_00 ? Sengoku BASARA: Samurai Heroes
+- NPWR01037_00 ? MASSIVE ACTION GAME™
+- NPWR01039_00 ? Summer Challenge
+- NPWR01040_00 ? Cómo entrenar a tu dragón™
+- NPWR01056_00 ? 実況パワフルプロ野球２０１０
+- NPWR01057_00 ? Buzz!™: The Ultimate Music Quiz
+- NPWR01062_00 ? 信長の野望･天道
+- NPWR01064_00 ? nail'd
+- NPWR01068_00 ? "DYNASTY WARRIORS: Strikeforce" Trophy Set
+- NPWR01073_00 ? Shirokishi Monogatari: Hikari to Yami no Kakusei Trophy Set
+- NPWR01077_00 ? プロ野球スピリッツ2010
+- NPWR01079_00 ? SPELUNKER BLACK
+- NPWR01084_00 ? Power Smash ライブマッチ！
+- NPWR01090_00 ? MARVEL VS. CAPCOM 3
+- NPWR01096_00 ? NO MORE HEROES 英雄たちの楽園
+- NPWR01097_00 ? 3D DOT GAME HEROES
+- NPWR01099_00 ? MySims SkyHeroes™
+- NPWR01101_00 ? YAKUZA 3
+- NPWR01103_00 ? Resonance of Fate
+- NPWR01107_00 ? Guitar Hero®: Warriors of Rock
+- NPWR01110_00 ? International Cricket 2010
+- NPWR01111_00 ? Little League World Series Baseball 2010
+- NPWR01112_00 ? Prince of Persia The Forgotten Sands™
+- NPWR01114_00 ? Ferrari The Race Experience
+- NPWR01115_00 ? Iron Man™ 2
+- NPWR01116_00 ? Last Rebellion
+- NPWR01117_00 ? Tron: Evolution
+- NPWR01118_00 ? Army of TWO™: The 40th Day (JP)
+- NPWR01119_00 ? Dungeon Siege III
+- NPWR01120_00 ? Two Worlds II
+- NPWR01123_00 ? パチパラ１５ ～スーパー海IN沖縄２～
+- NPWR01124_00 ? Another Century's Episode R
+- NPWR01125_00 ? NIER
+- NPWR01126_00 ? CLASH OF THE TITANS
+- NPWR01127_00 ? CLASH OF THE TITANS
+- NPWR01128_00 ? CLASH OF THE TITANS
+- NPWR01130_00 ? Medal of Honor™
+- NPWR01132_00 ? NieR Replicant
+- NPWR01133_00 ? Winning Post World 2010
+- NPWR01135_00 ? VANQUISH
+- NPWR01137_00 ? WORLD SOCCER Winning Eleven 2010 蒼き侍の挑戦
+- NPWR01139_00 ? Brink
+- NPWR01140_00 ? Bodycount®
+- NPWR01141_00 ? Worms 2: Armageddon
+- NPWR01143_00 ? DiRT 3
+- NPWR01146_00 ? MONOPOLY® Streets
+- NPWR01147_00 ? Disney Sing It: Family Hits
+- NPWR01148_00 ? TRINITY Souls of Zill O'll
+- NPWR01150_00 ? WHITE ALBUM－綴られる冬の想い出－
+- NPWR01152_00 ? 薄桜鬼 巡想録
+- NPWR01173_00 ? Spare Parts
+- NPWR01174_00 ? Tiger Woods PGA TOUR® 11
+- NPWR01175_00 ? Racquet Sports
+- NPWR01178_00 ? Rapala® Pro Bass Fishing
+- NPWR01180_00 ? 3D DOT GAME HEROES
+- NPWR01182_00 ? Ben 10 Ultimate Alien: Cosmic Destruction
+- NPWR01184_00 ? LEGO® Harry Potter™: Years 1-4
+- NPWR01186_00 ? John Daly's ProStroke Golf
+- NPWR01188_00 ? MINDJACK
+- NPWR01193_00 ? Marvel Super Hero Squad: The Infinity Gauntlet
+- NPWR01198_00 ? FIFA 11
+- NPWR01199_00 ? Spider-Man™: Shattered Dimensions
+- NPWR01202_00 ? BlazBlue  Continuum Shift Trophy
+- NPWR01203_00 ? Bulletstorm
+- NPWR01205_00 ? テイルズ オブ グレイセス エフ
+- NPWR01210_00 ? LittleBigPlanet™2
+- NPWR01215_00 ? Star Wars: The Force Unleashed II
+- NPWR01216_00 ? Uncharted 3: Drake's Deception™
+- NPWR01217_00 ? NBA 2K11
+- NPWR01219_00 ? Lucha Libre AAA: Heroes del Ring
+- NPWR01224_00 ? Virtua Tennis 4
+- NPWR01225_00 ? Pure Futbol Trophies
+- NPWR01227_00 ? Test Drive Unlimited 2
+- NPWR01229_00 ? You Don't Know Jack
+- NPWR01230_00 ? Disney Sing It: Family Hits
+- NPWR01231_00 ? トトリのアトリエ
+～アーランドの錬金術士２～
+- NPWR01234_00 ? DEF JAM RAPSTAR
+- NPWR01235_00 ? Batman: Arkham City™
+- NPWR01236_00 ? Superstars® V8 Racing
+- NPWR01238_00 ? Cabela's® North American Adventures
+- NPWR01239_00 ? MotoGP 10/11
+- NPWR01240_00 ? LEGO® Star Wars® III: The Clone Wars™
+- NPWR01247_00 ? Call of Duty®: Black Ops
+- NPWR01249_00 ? Demon's Souls
+- NPWR01250_00 ? Apache: Air Assault
+- NPWR01254_00 ? AC Brotherhood
+- NPWR01255_00 ? Trinity Universe
+- NPWR01257_00 ? DJ Hero 2
+- NPWR01258_00 ? NCAA® Football 11
+- NPWR01259_00 ? 트리니티 유니버스
+- NPWR01261_00 ? Battle vs. Chess
+- NPWR01263_00 ? THE FIGHT™
+- NPWR01264_00 ? UFC Personal Trainer
+- NPWR01267_00 ? Yoostar2
+- NPWR01268_00 ? TV Superstars™
+- NPWR01269_00 ? Need for Speed™ Hot Pursuit
+- NPWR01270_00 ? SBK®09 Superbike World Championship
+- NPWR01271_00 ? RAZING STORM
+- NPWR01272_00 ? Disney Sing It: Party Hits
+- NPWR01279_00 ? Free Realms
+- NPWR01281_00 ? Supremacy MMA
+- NPWR01283_00 ? Mayhem 3D
+- NPWR01286_00 ? ドラゴンボール　レイジングブラスト２　トロフィーセット
+- NPWR01287_00 ? Madden NFL 11
+- NPWR01288_00 ? Harry Potter and the Deathly Hallows™ - Part 1
+- NPWR01289_00 ? Homefront
+- NPWR01292_00 ? F.E.A.R. 3
+- NPWR01295_00 ? SOCOM 4: U.S. Navy SEALs
+- NPWR01297_00 ? Record of Agarest WarⅡ
+- NPWR01298_00 ? Dungeon Defenders Trophy Set
+- NPWR01299_00 ? 真・三國無双６
+- NPWR01300_00 ? Megamind
+- NPWR01304_00 ? Tom Clancy's H.A.W.X. 2
+- NPWR01305_00 ? The Sims™ 3
+- NPWR01309_00 ? Winter Sports 2011
+- NPWR01311_00 ? Major League Baseball 2K10
+- NPWR01314_00 ? Hyperdimension　Neptune
+- NPWR01317_00 ? 剣と魔法と学園モノ。２Ｇ
+- NPWR01321_00 ? FAMILY GAME NIGHT 3
+- NPWR01322_00 ? Blood Drive
+- NPWR01323_00 ? Operation Flashpoint®: Red River™
+- NPWR01325_00 ? EA SPORTS Active 2
+- NPWR01334_00 ? ELEMENTAL MONSTER -ONLINE CARD GAME-
+- NPWR01335_00 ? SHIFT 2 UNLEASHED™
+- NPWR01339_00 ? Red Faction: Armageddon
+- NPWR01340_00 ? PDC World Championship Darts: Pro Tour
+- NPWR01342_00 ? Greg Hastings Paintball 2
+- NPWR01345_00 ? Obut Pétanque
+- NPWR01347_00 ? NBA ELITE 11
+- NPWR01348_00 ? The Lord of the Rings: Aragorn's Quest™
+- NPWR01351_00 ? The X Factor
+- NPWR01357_00 ? CSI: Fatal Conspiracy
+- NPWR01358_00 ? Jane's Advanced Strike Fighters
+- NPWR01359_00 ? ENSLAVED™: Odyssey to the West™
+- NPWR01360_00 ? EA SPORTS™ MMA
+- NPWR01361_00 ? Section 8: Prejudice
+- NPWR01363_00 ? Shaun White Skateboarding
+- NPWR01367_00 ? Get Fit With Mel B
+- NPWR01369_00 ? TONY HAWK: SHRED
+- NPWR01372_00 ? UFC® Undisputed™ 3
+- NPWR01380_00 ? WRC FIA World Rally Championship
+- NPWR01382_00 ? 信長の野望 Online
+- NPWR01386_00 ? ガンダム無双３
+- NPWR01387_00 ? ぬらりひょんの孫
+- NPWR01389_00 ? Rio™
+- NPWR01391_00 ? Way of the Samurai 4
+- NPWR01392_00 ? Duke Nukem Forever
+- NPWR01398_00 ? Zumba
+- NPWR01399_00 ? 剣と魔法と学園モノ。３
+- NPWR01400_00 ? El Shaddai ASCENSION OF THE METATRON
+- NPWR01403_00 ? SPELUNKER HD
+- NPWR01404_00 ? Medal of Honor Frontline™
+- NPWR01405_00 ? Pro Evolution Soccer 2011
+- NPWR01406_00 ? Rugby World Cup 2011
+- NPWR01408_00 ? Knights Contract
+- NPWR01413_00 ? Alien Breed 2: Assault
+- NPWR01416_00 ? Winning Post 7 2010
+- NPWR01419_00 ? Bakugan™: Defenders of the Core
+- NPWR01420_00 ? National Geographic Challenge!
+- NPWR01421_00 ? FIGHT NIGHT CHAMPION Trophies
+- NPWR01423_00 ? AFL Live
+- NPWR01424_00 ? 実況パワフルプロ野球２０１１
+- NPWR01426_00 ? Inversion™
+- NPWR01430_00 ? Power Gig: Rise of the SixString
+- NPWR01431_00 ? Hunted: The Demon's Forge
+- NPWR01433_00 ? Sly 2
+- NPWR01435_00 ? Sly 1
+- NPWR01436_00 ? Mafia II
+- NPWR01438_00 ? Dead Space™ 2
+- NPWR01439_00 ? SAW 2
+- NPWR01445_00 ? プロ野球スピリッツ2011
+- NPWR01448_00 ? WORLD SOCCER Winning Eleven 2011
+- NPWR01450_00 ? Pro Evolution Soccer 2011
+- NPWR01452_00 ? Castlevania: Lords of Shadow™
+- NPWR01455_00 ? Fist of the North Star: Ken's Rage
+- NPWR01459_00 ? Create
+- NPWR01460_00 ? Fallout: New Vegas
+- NPWR01462_00 ? Dead Space™ Extraction
+- NPWR01464_00 ? Arcana Heart 3
+- NPWR01469_00 ? Racket Sports
+- NPWR01471_00 ? Thor™: God of Thunder
+- NPWR01472_00 ? Hunter's Trophy
+- NPWR01473_00 ? My Body Coach 2 - Trophies
+- NPWR01477_00 ? Atelier Rorona
+The Alchemist of Arland
+- NPWR01478_00 ? BioShock Infinite
+- NPWR01484_00 ? Monster Jam: Path of Destruction
+- NPWR01486_00 ? Borderlands™: Game of the Year Edition
+- NPWR01488_00 ? Alien Breed 3: Descent
+- NPWR01490_00 ? Sly 3
+- NPWR01500_00 ? DCUO Trophies
+- NPWR01503_00 ? Shadow of the Colossus™
+- NPWR01504_00 ? ICO™
+- NPWR01506_00 ? Prince of Persia: The Sands of Time
+- NPWR01512_00 ? Dragon Age II
+- NPWR01513_00 ? パチパラ１６ ～ギンギラパラダイス２～
+- NPWR01516_00 ? MX vs. ATV Alive
+- NPWR01520_00 ? WWE All Stars
+- NPWR01526_00 ? Prince of Persia: Warrior Within
+- NPWR01528_00 ? Venetica
+- NPWR01535_00 ? NHL® 12 Trophies
+- NPWR01536_00 ? Star Trek
+- NPWR01537_00 ? Borderlands™ 2
+- NPWR01541_00 ? NeverDead
+- NPWR01543_00 ? NO MORE HEROES HEROES' PARADISE
+- NPWR01550_00 ? Cabela's® Dangerous Hunts 2011
+- NPWR01551_00 ? Prince of Persia: The Two Thrones
+- NPWR01552_00 ? Alice: Madness Returns™
+- NPWR01555_00 ? Wizardry 囚われし亡霊の街　Scenario1
+- NPWR01556_00 ? Captain America™: Super Soldier
+- NPWR01558_00 ? Majin and the Forsaken Kingdom™
+- NPWR01560_00 ? Green Lantern: Rise of the Manhunters
+- NPWR01562_00 ? MLB 11 The Show™
+- NPWR01565_00 ? 第２次スーパーロボット大戦ＯＧ
+- NPWR01566_00 ? Hitman: Absolution™
+- NPWR01567_00 ? Nat Geo Challenge! Wild Life
+- NPWR01569_00 ? Killzone 3
+- NPWR01570_00 ? PlayStation®Move Heroes
+- NPWR01571_00 ? Cars 2
+- NPWR01577_00 ? RESIDENT EVIL 6
+- NPWR01580_00 ? Mass Effect™ 2
+- NPWR01585_00 ? SBK®X Superbike World Championship
+- NPWR01592_00 ? TRANSFORMERS: Fall of Cybertron
+- NPWR01598_00 ? うみねこのなく頃に ～魔女と推理の輪舞曲～
+- NPWR01599_00 ? BLEACH: Soul Resurreccion
+- NPWR01601_00 ? Michael Jackson The Experience
+- NPWR01602_00 ? 激アツ!! パチゲー魂 「CRヱヴァンゲリヲン～始まりの福音～」
+- NPWR01605_00 ? Deus Ex: Human Revolution
+- NPWR01608_00 ? Tomb Raider: Legend
+- NPWR01609_00 ? RuneFactory Oceans
+- NPWR01610_00 ? 龍が如く OF THE END
+- NPWR01613_00 ? WSC Real 2011
+- NPWR01617_00 ? TV Superstar™
+- NPWR01618_00 ? TV Superstars
+- NPWR01626_00 ? Zumba
+- NPWR01628_00 ? Dragon Age: Origins (J)
+- NPWR01629_00 ? NBA JAM
+- NPWR01630_00 ? 戦国無双３ Z
+- NPWR01631_00 ? 魔界戦記ディスガイア４
+- NPWR01636_00 ? まもるクンは呪われてしまった！ ～冥界活劇ワイド版～
+- NPWR01641_00 ? 大戦略パーフェクト～戦場の覇者～
+- NPWR01642_00 ? YAKUZA 4
+- NPWR01643_00 ? びっくりぱちんこ　あしたのジョー KYORAKU コレクション Vol.1
+- NPWR01649_00 ? FINAL FANTASY XIV: A Realm Reborn
+- NPWR01650_00 ? Tiger Woods PGA TOUR® 12: The Masters®
+- NPWR01651_00 ? Tomb Raider: Anniversary
+- NPWR01654_00 ? Sniper Elite V2
+- NPWR01662_00 ? Max Payne 3
+- NPWR01663_00 ? Hyperdimension Neptunia
+- NPWR01667_00 ? Man Vs Wild
+- NPWR01671_00 ? de Blob 2
+- NPWR01674_00 ? Rango
+- NPWR01675_00 ? Racquet Sports
+- NPWR01678_00 ? Ar tonelico Qoga
+Knell of Ar Ciel
+- NPWR01681_00 ? White Knight Chronicles™ Ⅱ Trophy Set
+- NPWR01682_00 ? Dragon's Dogma
+- NPWR01683_00 ? DanceDanceRevolution New Moves
+- NPWR01684_00 ? TRANSFORMERS Dark of The Moon
+- NPWR01686_00 ? London 2012
+- NPWR01687_00 ? AQUAPAZZA
+- NPWR01688_00 ? 초차원게임 넵튠
+- NPWR01690_00 ? Motionsports™ Adrenaline Trophy Set
+- NPWR01692_00 ? Saints Row: The Third
+- NPWR01702_00 ? RUGBY CHALLENGE
+- NPWR01708_00 ? TRINITY: Souls of Zill O'll
+- NPWR01714_00 ? 涼宮ハルヒの追想
+- NPWR01715_00 ? L@ve once -mermaid's tears-
+- NPWR01718_00 ? Major League Baseball 2K11
+- NPWR01719_00 ? Portal 2
+- NPWR01720_00 ? We Dare
+- NPWR01724_00 ? パチパラ１７ ～新海物語Withアグネス･ラム～
+- NPWR01726_00 ? Air Conflicts: Secret Wars Trophies
+- NPWR01727_00 ? WWE '12
+- NPWR01728_00 ? Madden NFL 12
+- NPWR01730_00 ? inFamous 2
+- NPWR01734_00 ? NCAA® Football 12
+- NPWR01735_00 ? NO MORE HEROES RED ZONE
+- NPWR01736_00 ? Jimmie Johnson's Anything With An Engine
+- NPWR01738_00 ? SOULCALIBUR Ⅴ
+- NPWR01739_00 ? Dynasty Warriors 7
+- NPWR01740_00 ? 真·三國無雙６
+- NPWR01746_00 ? CLANNAD
+- NPWR01747_00 ? Mortal Kombat
+- NPWR01749_00 ? Champion Jockey: Gallop Racer & GⅠ Jockey
+- NPWR01750_00 ? Champion Jockey: G1 Jockey & Gallop Racer
+- NPWR01753_00 ? Putty Squad
+- NPWR01756_00 ? Skylanders Spyro's Adventure
+- NPWR01758_00 ? Devil May Cry HD
+- NPWR01759_00 ? Devil May Cry 2 HD
+- NPWR01760_00 ? Devil May Cry 3 HD
+- NPWR01761_00 ? Worms Ultimate Mayhem
+- NPWR01764_00 ? The Penguins of Madagascar
+- NPWR01767_00 ? Dishonored
+- NPWR01768_00 ? SONIC GENERATIONS
+- NPWR01769_00 ? テイルズ オブ エクシリア
+- NPWR01773_00 ? Winter Stars
+- NPWR01776_00 ? 緋色の欠片 愛蔵版 ～あかねいろの追憶～
+- NPWR01777_00 ? スロッター超マニア
+アントニオ猪木が元気にするパチスロ機
+- NPWR01779_00 ? Gachinko Heroes™
+- NPWR01781_00 ? STREET FIGHTER X TEKKEN
+- NPWR01782_00 ? Dead Space™ 2 - DE
+- NPWR01783_00 ? Record of Agarest War ZERO
+- NPWR01785_00 ? Puppeteer™
+- NPWR01789_00 ? Crash Time 4 - The Syndicate
+- NPWR01791_00 ? SOCOM: Special Forces
+- NPWR01792_00 ? Top Gun: Hard Lock
+- NPWR01795_00 ? Crysis®2
+- NPWR01796_00 ? ULTIMATE MARVEL VS. CAPCOM 3
+- NPWR01800_00 ? Let's Dance with Mel B
+- NPWR01804_00 ? DanceStar™ Party
+- NPWR01810_00 ? Sniper: Ghost Warrior
+- NPWR01811_00 ? Tom Clancy's™ Splinter Cell® HD
+- NPWR01812_00 ? Tom Clancy's™ Splinter Cell Pandora Tomorrow® HD
+- NPWR01813_00 ? Need for Speed™ Most Wanted
+- NPWR01814_00 ? Mass Effect™ 3
+- NPWR01817_00 ? The Darkness II
+- NPWR01818_00 ? Jak and Daxter: The Precursor Legacy
+- NPWR01819_00 ? Jak II
+- NPWR01820_00 ? Jak 3
+- NPWR01822_00 ? Kung Fu Panda® 2
+- NPWR01827_00 ? 機動戦士ガンダムＵＣ
+- NPWR01828_00 ? Dead Rising 2: Off The Record
+- NPWR01831_00 ? LEGO® Pirates of the Caribbean The Video Game
+- NPWR01834_00 ? SBK®2011 FIM Superbike World Championship
+- NPWR01835_00 ? Need for Speed™ The Run
+- NPWR01839_00 ? Shadows of the Damned™
+- NPWR01840_00 ? Shadows of the Damned™
+- NPWR01841_00 ? Resistance 3
+- NPWR01848_00 ? METAL GEAR SOLID PEACE WALKER HD EDITION
+- NPWR01855_00 ? ПРИКЛЮЧЕНИЯ ТИНТИНА: ТАЙНА ЕДИНОРОГА
+- NPWR01856_00 ? Wrecked: Revenge Revisited
+- NPWR01857_00 ? Cyberbike 2
+- NPWR01860_00 ? 信長の野望･天道 with パワーアップキット
+- NPWR01862_00 ? Harry Potter and the Deathly Hallows™ - Part 2
+- NPWR01863_00 ? Call of Juarez®: The Cartel
+- NPWR01864_00 ? [PROTOTYPE®2]
+- NPWR01865_00 ? The Cursed Crusade - Trophies
+- NPWR01866_00 ? The Cursed Crusade - Trophies
+- NPWR01867_00 ? The Cursed Crusade - Trophies
+- NPWR01868_00 ? GoldenEye 007™: Reloaded
+- NPWR01869_00 ? Wipeout 2
+- NPWR01878_00 ? Family Game Night 4
+- NPWR01881_00 ? Tom Clancy's™ Splinter Cell Chaos Theory® HD
+- NPWR01884_00 ? X-Men: Destiny
+- NPWR01886_00 ? NARUTO™ SHIPPUDEN: Ultimate Ninja® Storm Generations
+- NPWR01887_00 ? Major League Baseball 2K11
+- NPWR01888_00 ? Sacred 3
+- NPWR01891_00 ? Snipers - Invisible, Silent, Deadly
+- NPWR01894_00 ? Major League Baseball 2K11
+- NPWR01895_00 ? Move Fitness™
+- NPWR01897_00 ? F1 2011™
+- NPWR01899_00 ? Spider-Man™: Edge of Time
+- NPWR01901_00 ? メルルのアトリエ　～アーランドの錬金術士３～
+- NPWR01902_00 ? 激アツ!! パチゲー魂 VOL 2 「ヱヴァンゲリヲン～真実の翼～」
+- NPWR01914_00 ? MLB ボブルヘッド！
+- NPWR01946_00 ? .hack//Versus
+- NPWR01952_00 ? Saint Seiya: Sanctuary Battle
+- NPWR01962_00 ? Tour de France 2011
+- NPWR01969_00 ? アリス マッドネス リターンズ
+- NPWR01975_00 ? Phineas and Ferb Across the 2nd Dimension
+- NPWR01990_00 ? Brink
+- NPWR01992_00 ? LOLLIPOP CHAINSAW
+- NPWR01993_00 ? Crysis®
+- NPWR01994_00 ? Disney Universe
+- NPWR02009_00 ? DreamWorks® Super Star Kartz™
+- NPWR02011_00 ? Battlefield 3™ Trophies
+- NPWR02021_00 ? アイドルマスター２
+- NPWR02025_00 ? Everybody Dance™
+- NPWR02029_00 ? The Adventures of Tintin
+- NPWR02036_00 ? Hunted: The Demon's Forge
+- NPWR02037_00 ? ARMORED CORE V
 
-- NPWR00990_00
-- NPWR00993_00
-- NPWR00994_00
-- NPWR00996_00
-- NPWR00997_00
-- NPWR00999_00
-- NPWR01002_00
-- NPWR01003_00
-- NPWR01004_00
-- NPWR01005_00
-- NPWR01006_00
-- NPWR01007_00
-- NPWR01008_00
-- NPWR01012_00
-- NPWR01013_00
-- NPWR01021_00
-- NPWR01022_00
-- NPWR01023_00
-- NPWR01024_00
-- NPWR01028_00
-- NPWR01031_00
-- NPWR01032_00
-- NPWR01037_00
-- NPWR01039_00
-- NPWR01040_00
-- NPWR01056_00
-- NPWR01057_00
-- NPWR01062_00
-- NPWR01064_00
-- NPWR01068_00
-- NPWR01073_00
-- NPWR01077_00
-- NPWR01079_00
-- NPWR01084_00
-- NPWR01090_00
-- NPWR01096_00
-- NPWR01097_00
-- NPWR01099_00
-- NPWR01101_00
-- NPWR01103_00
-- NPWR01107_00
-- NPWR01110_00
-- NPWR01111_00
-- NPWR01112_00
-- NPWR01114_00
-- NPWR01115_00
-- NPWR01116_00
-- NPWR01117_00
-- NPWR01118_00
-- NPWR01119_00
-- NPWR01120_00
-- NPWR01123_00
-- NPWR01124_00
-- NPWR01125_00
-- NPWR01126_00
-- NPWR01127_00
-- NPWR01128_00
-- NPWR01130_00
-- NPWR01132_00
-- NPWR01133_00
-- NPWR01135_00
-- NPWR01137_00
-- NPWR01139_00
-- NPWR01140_00
-- NPWR01141_00
-- NPWR01143_00
-- NPWR01146_00
-- NPWR01147_00
-- NPWR01148_00
-- NPWR01150_00
-- NPWR01152_00
-- NPWR01173_00
-- NPWR01174_00
-- NPWR01175_00
-- NPWR01178_00
-- NPWR01180_00
-- NPWR01182_00
-- NPWR01184_00
-- NPWR01186_00
-- NPWR01188_00
-- NPWR01193_00
-- NPWR01198_00
-- NPWR01199_00
-- NPWR01202_00
-- NPWR01203_00
-- NPWR01205_00
-- NPWR01210_00
-- NPWR01215_00
-- NPWR01216_00
-- NPWR01217_00
-- NPWR01219_00
-- NPWR01224_00
-- NPWR01225_00
-- NPWR01227_00
-- NPWR01229_00
-- NPWR01230_00
-- NPWR01231_00
-- NPWR01234_00
-- NPWR01235_00
-- NPWR01236_00
+- NPWR02044_00 ? Trine 2
+- NPWR02059_00 ? Call of Duty®: Black Ops II
+- NPWR02060_00 ? Disgaea 4
+- NPWR02062_00 ? Disgaea 4
+- NPWR02063_00 ? 魔界戰記ＤＩＳＧＡＥＡ４
+- NPWR02064_00 ? 마계전기 DISGAEA4
+- NPWR02067_00 ? Absolute Supercars
+- NPWR02070_00 ? God of War®: Chains of Olympus
+- NPWR02071_00 ? God of War®: Ghost of Sparta
+- NPWR02088_00 ? 機動戦士ガンダム エクストリームバーサス
+- NPWR02094_00 ? The Sims™ 3 Pets
+- NPWR02104_00 ? FIFA 12
+- NPWR02108_00 ? TEKKEN TAG TOURNAMENT HD
+- NPWR02111_00 ? NASCAR® Unleashed
+- NPWR02117_00 ? Wanted Corp.
+- NPWR02121_00 ? シャドウ　オブ　ザ　ダムド
+- NPWR02122_00 ? Okabu
+- NPWR02125_00 ? EyePet & Friends™ Trophies
+- NPWR02127_00 ? WRC 2
+- NPWR02131_00 ? Child of Eden
+- NPWR02133_00 ? The House of the Dead: OVERKILL™ Extended Cut
+- NPWR02138_00 ? 真・三國無双６ 猛将伝
+- NPWR02139_00 ? WWE All Stars
+- NPWR02149_00 ? 戦国無双３ Empires
+- NPWR02153_00 ? Ben 10™ Galactic Racing
+- NPWR02156_00 ? DUNAMIS15
+- NPWR02157_00 ? Hyperdimension Neptune mk2
+- NPWR02159_00 ? LEGO® Harry Potter™: Years 5-7
+- NPWR02161_00 ? Cabela's® Survival: Shadows of Katmai
+- NPWR02163_00 ? Resident Evil: Operation Raccoon City
+- NPWR02171_00 ? Family Guy: Back To The Multiverse
+- NPWR02181_00 ? NINJA GAIDEN 3
+- NPWR02184_00 ? MOTORSTORM® RC
+- NPWR02193_00 ? Atelier Totori
+The Adventurer of Arland
+- NPWR02201_00 ? Dragon Ball Z Ultimate Tenkaichi Trophy Set
+- NPWR02203_00 ? Ridge Racer™ Unbounded
+- NPWR02209_00 ? ToHeart2 DX PLUS
+- NPWR02223_00 ? WORLD SOCCER Winning Eleven 2012
+- NPWR02249_00 ? Rayman® Origins
+- NPWR02260_00 ? Medieval Moves
+- NPWR02261_00 ? Starhawk™
+- NPWR02284_00 ? NBA 2K12
+- NPWR02286_00 ? Cabela's® Big Game Hunter 2012
+- NPWR02292_00 ? Oddworld: Stranger's Wrath HD
+- NPWR02293_00 ? Cabela's® Adventure Camp
+- NPWR02294_00 ? Pictionary
+- NPWR02295_00 ? Marvel Super Hero Squad: Comic Combat
+- NPWR02300_00 ? Pro Evolution Soccer 2012
+- NPWR02303_00 ? PAYDAY: The Heist
+- NPWR02312_00 ? LittleBigPlanet™ Karting
+- NPWR02314_00 ? Cartoon Network Punch Time Explosion XL
+- NPWR02316_00 ? Get Up and Dance
+- NPWR02322_00 ? Modern Warfare® 3
+- NPWR02323_00 ? The Lord of the Rings: War in the North
+- NPWR02325_00 ? 戦国BASARA3 宴
+- NPWR02334_00 ? Grease Dance
+- NPWR02335_00 ? Ratchet & Clank
+- NPWR02343_00 ? 街ingメーカー４
+- NPWR02346_00 ? Ratchet & Clank 2
+- NPWR02347_00 ? Ratchet & Clank 3: Up Your Arsenal
+- NPWR02348_00 ? Ratchet: Deadlocked™
+- NPWR02350_00 ? AC Revelations
+- NPWR02359_00 ? NCIS Game
+- NPWR02367_00 ? Blades of Time
+- NPWR02372_00 ? Instant Artist
+- NPWR02376_00 ? ASURA'S WRATH
+- NPWR02377_00 ? 아가레스트 전기 2
+- NPWR02378_00 ? タイムリープ
+- NPWR02379_00 ? WORLD SOCCER Winning Eleven 2012
+- NPWR02380_00 ? Metal Gear Solid 2
+- NPWR02381_00 ? Metal Gear Solid 3
+- NPWR02389_00 ? Ni no Kuni: Wrath of the White Witch
+- NPWR02391_00 ? FINAL FANTASY XIII-2
+- NPWR02401_00 ? Deep Black
+- NPWR02402_00 ? Puss In Boots®
+- NPWR02410_00 ? Generator Rex: Agent of Providence
+- NPWR02411_00 ? Killzone 3 Multiplayer
+- NPWR02426_00 ? マージャン★ドリームクラブ
+- NPWR02441_00 ? Rocksmith
+- NPWR02466_00 ? Rune Factory: Tides of Destiny
+- NPWR02471_00 ? Dead Island
+- NPWR02485_00 ? Silent Hill Downpour
+- NPWR02488_00 ? Happy Feet Two Trophy Set
+- NPWR02490_00 ? Pro Evolution Soccer 2012
+- NPWR02493_00 ? Silent Hill 2 HD
+- NPWR02494_00 ? Silent Hill 3 HD
+- NPWR02497_00 ? BINARY DOMAIN
+- NPWR02500_00 ? Start the Party!™ Save the World
+- NPWR02503_00 ? SSX TROPHY SET
+- NPWR02506_00 ? miCoach
+- NPWR02529_00 ? Carnival Island
+- NPWR02537_00 ? Champion Jockey: G1 Jockey & Gallop Racer
+- NPWR02540_00 ? Rocketbirds: Hardboiled Chicken
+- NPWR02541_00 ? NASCAR The Game: Inside Line
+- NPWR02544_00 ? GLADIATOR VS
+- NPWR02545_00 ? Saints Row: The Third
+- NPWR02553_00 ? Kingdoms of Amalur: Reckoning
+- NPWR02558_00 ? Atelier Meruru:The Apprentice of Arland
+- NPWR02560_00 ? NCAA® Football 13
+- NPWR02564_00 ? Schlag den Raab – Das 2. Spiel
+- NPWR02565_00 ? BlazBlue: Continuum Shift EXTEND Trophy
+- NPWR02569_00 ? Tomb Raider
+- NPWR02572_00 ? 無双OROCHI２
+- NPWR02575_00 ? Heavy Fire: Afghanistan
+- NPWR02582_00 ? Duke Nukem Forever
+- NPWR02586_00 ? The Adventures of Tintin: The Secret of the Unicorn
+- NPWR02609_00 ? Rugby League Live 2
+- NPWR02621_00 ? PlayStation® All-Stars Battle Royale
+- NPWR02622_00 ? 真かまいたちの夜
+11人目の訪問者（サスペクト）
+- NPWR02631_00 ? Skyrim
+- NPWR02635_00 ? CATHERINE
+- NPWR02636_00 ? Tiger Woods PGA TOUR® 13
+- NPWR02639_00 ? 涼風のメルト - days in the sanctuary -
+- NPWR02642_00 ? Record of Agarest War 2
+- NPWR02645_00 ? THE KING OF FIGHTERS XIII
+- NPWR02646_00 ? MLB® 12 The Show™ (PS3)
+- NPWR02652_00 ? ワンピース 海賊無双
+- NPWR02658_00 ? DYNASTY WARRIORS 7: Xtreme Legends
+- NPWR02660_00 ? 真・三國無雙６ 猛將傳
+- NPWR02666_00 ? 水月 弐
+- NPWR02712_00 ? YAKUZA: Dead Souls
+- NPWR02714_00 ? The testament of Sherlock Holmes Trophy set
+- NPWR02719_00 ? FIFA Street
+- NPWR02720_00 ? Family Game Night 4
+- NPWR02724_00 ? The Cube
+- NPWR02726_00 ? 出撃！！乙女たちの戦場２ トロフィー
+- NPWR02727_00 ? Skydive: Proximity Flight
+- NPWR02730_00 ? The Ultimate Battle of the Sexes: Quiz & Play!
+- NPWR02746_00 ? 実況パワフルプロ野球２０１１決定版
+- NPWR02747_00 ? Dragon Age II (J)
+- NPWR02751_00 ? Back to the Future: The Game
+- NPWR02758_00 ? 迷宮塔路レガシスタ
+- NPWR02777_00 ? Medieval Moves
+- NPWR02779_00 ? BEYOND THE FUTURE - FIX THE TIME ARROWS -
+- NPWR02803_00 ? Just Dance 3
+- NPWR02812_00 ? Tales of Graces f
+- NPWR02835_00 ? Birds of Steel
+- NPWR02836_00 ? Rayman® Origins
+- NPWR02839_00 ? Rayman® Origins
+- NPWR02841_00 ? MAX ANARCHY
+- NPWR02846_00 ? 新 東大将棋
+- NPWR02849_00 ? Hyperdimension Neptunia mk2
+- NPWR02865_00 ? プロ野球スピリッツ2012
 
-## Set 5
+- NPWR02872_00 ? CS:GO
+- NPWR02896_00 ? うみねこのなく頃に ～真実と幻想の夜想曲～
+- NPWR02908_00 ? MUD
+- NPWR02910_00 ? Everyone Sing
+- NPWR02915_00 ? Persona 4 ARENA Trophy
+- NPWR02920_00 ? Battleship
+- NPWR02924_00 ? The Amazing Spider-Man
+- NPWR02925_00 ? Men In Black: Alien Crisis
+- NPWR02933_00 ? 実況パワフルプロ野球２０１２
+- NPWR02935_00 ? 萌え萌え大戦争☆げんだいばーん++
+- NPWR02947_00 ? ぎゃる☆がん
+- NPWR02961_00 ? Wheel of Fortune
+- NPWR02962_00 ? Jeopardy!
+- NPWR02969_00 ? Le Tour de France 2012
+- NPWR02972_00 ? Sleeping Dogs™
+- NPWR02973_00 ? TEKKEN TAG TOURNAMENT 2
+- NPWR02976_00 ? Summer Stars 2012
+- NPWR02986_00 ? Syndicate™
 
-- NPWR01238_00
-- NPWR01239_00
-- NPWR01240_00
-- NPWR01247_00
-- NPWR01249_00
-- NPWR01250_00
-- NPWR01254_00
-- NPWR01255_00
-- NPWR01257_00
-- NPWR01258_00
-- NPWR01259_00
-- NPWR01261_00
-- NPWR01263_00
-- NPWR01264_00
-- NPWR01267_00
-- NPWR01268_00
-- NPWR01269_00
-- NPWR01270_00
-- NPWR01271_00
-- NPWR01272_00
-- NPWR01279_00
-- NPWR01281_00
-- NPWR01283_00
-- NPWR01286_00
-- NPWR01287_00
-- NPWR01288_00
-- NPWR01289_00
-- NPWR01292_00
-- NPWR01295_00
-- NPWR01297_00
-- NPWR01298_00
-- NPWR01299_00
-- NPWR01300_00
-- NPWR01304_00
-- NPWR01305_00
-- NPWR01309_00
-- NPWR01311_00
-- NPWR01314_00
-- NPWR01317_00
-- NPWR01321_00
-- NPWR01322_00
-- NPWR01323_00
-- NPWR01325_00
-- NPWR01334_00
-- NPWR01335_00
-- NPWR01339_00
-- NPWR01340_00
-- NPWR01342_00
-- NPWR01345_00
-- NPWR01347_00
-- NPWR01348_00
-- NPWR01351_00
-- NPWR01357_00
-- NPWR01358_00
-- NPWR01359_00
-- NPWR01360_00
-- NPWR01361_00
-- NPWR01363_00
-- NPWR01367_00
-- NPWR01369_00
-- NPWR01372_00
-- NPWR01380_00
-- NPWR01382_00
-- NPWR01386_00
-- NPWR01387_00
-- NPWR01389_00
-- NPWR01391_00
-- NPWR01392_00
-- NPWR01398_00
-- NPWR01399_00
-- NPWR01400_00
-- NPWR01403_00
-- NPWR01404_00
-- NPWR01405_00
-- NPWR01406_00
-- NPWR01408_00
-- NPWR01413_00
-- NPWR01416_00
-- NPWR01419_00
-- NPWR01420_00
-- NPWR01421_00
-- NPWR01423_00
-- NPWR01424_00
-- NPWR01426_00
-- NPWR01430_00
-- NPWR01431_00
-- NPWR01433_00
-- NPWR01435_00
-- NPWR01436_00
-- NPWR01438_00
-- NPWR01439_00
-- NPWR01445_00
-- NPWR01448_00
-- NPWR01450_00
-- NPWR01452_00
-- NPWR01455_00
-- NPWR01459_00
-- NPWR01460_00
-- NPWR01462_00
-- NPWR01464_00
+- NPWR02997_00 ? LEGO® Batman™ 2: DC Super Heroes
+- NPWR03010_00 ? UNDER DEFEAT HD
+- NPWR03023_00 ? 真剣で私に恋しなさい！Ｒ
+- NPWR03024_00 ? Start the Party!™ Save the World
+- NPWR03025_00 ? Sorcery™
+- NPWR03044_00 ? NHL® 13 Trophies
+- NPWR03050_00 ? Armored Core V
 
-## Set 6
+- NPWR03052_00 ? たっち、しよっ！ ～Love Application～
+- NPWR03056_00 ? Disney•Pixar Brave
+- NPWR03058_00 ? Damage Inc. Pacific Squadron WWII
+- NPWR03063_00 ? Rune Factory Oceans
+- NPWR03067_00 ? Armored Core V
 
-- NPWR01469_00
-- NPWR01471_00
-- NPWR01472_00
-- NPWR01473_00
-- NPWR01477_00
-- NPWR01478_00
-- NPWR01484_00
-- NPWR01486_00
-- NPWR01488_00
-- NPWR01490_00
-- NPWR01500_00
-- NPWR01503_00
-- NPWR01504_00
-- NPWR01506_00
-- NPWR01512_00
-- NPWR01513_00
-- NPWR01516_00
-- NPWR01520_00
-- NPWR01526_00
-- NPWR01528_00
-- NPWR01535_00
-- NPWR01536_00
-- NPWR01537_00
-- NPWR01541_00
-- NPWR01543_00
-- NPWR01550_00
-- NPWR01551_00
-- NPWR01552_00
-- NPWR01555_00
-- NPWR01556_00
-- NPWR01558_00
-- NPWR01560_00
-- NPWR01562_00
-- NPWR01565_00
-- NPWR01566_00
-- NPWR01567_00
-- NPWR01569_00
-- NPWR01570_00
-- NPWR01571_00
-- NPWR01577_00
-- NPWR01580_00
-- NPWR01585_00
-- NPWR01592_00
-- NPWR01598_00
-- NPWR01599_00
-- NPWR01601_00
-- NPWR01602_00
-- NPWR01605_00
-- NPWR01608_00
-- NPWR01609_00
-- NPWR01610_00
-- NPWR01613_00
-- NPWR01617_00
-- NPWR01618_00
-- NPWR01626_00
-- NPWR01628_00
-- NPWR01629_00
-- NPWR01630_00
-- NPWR01631_00
-- NPWR01636_00
-- NPWR01641_00
-- NPWR01642_00
-- NPWR01643_00
-- NPWR01649_00
-- NPWR01650_00
-- NPWR01651_00
-- NPWR01654_00
-- NPWR01662_00
-- NPWR01663_00
-- NPWR01667_00
-- NPWR01671_00
-- NPWR01674_00
-- NPWR01675_00
-- NPWR01678_00
-- NPWR01681_00
-- NPWR01682_00
-- NPWR01683_00
-- NPWR01684_00
-- NPWR01686_00
-- NPWR01687_00
-- NPWR01688_00
-- NPWR01690_00
-- NPWR01692_00
-- NPWR01702_00
-- NPWR01708_00
-- NPWR01714_00
-- NPWR01715_00
-- NPWR01718_00
-- NPWR01719_00
-- NPWR01720_00
-- NPWR01724_00
-- NPWR01726_00
-- NPWR01727_00
-- NPWR01728_00
-- NPWR01730_00
-- NPWR01734_00
-- NPWR01735_00
-- NPWR01736_00
-- NPWR01738_00
-- NPWR01739_00
+- NPWR03073_00 ? The Last of Us™
+- NPWR03080_00 ? Doctor Who: The Eternity Clock
+- NPWR03087_00 ? Sports Champions™ 2
+- NPWR03096_00 ? Winning Post 7 2012
+- NPWR03098_00 ? Armored Core V
 
-## Set 7
+- NPWR03104_00 ? The Price is Right Decades
+- NPWR03108_00 ? DiRT Showdown
+- NPWR03109_00 ? Major League Baseball 2K12
+- NPWR03114_00 ? Hyperdimension Neptunia mk2
+- NPWR03116_00 ? WARRIORS OROCHI 3
 
-- NPWR01740_00
-- NPWR01746_00
-- NPWR01747_00
-- NPWR01749_00
-- NPWR01750_00
-- NPWR01753_00
-- NPWR01756_00
-- NPWR01758_00
-- NPWR01759_00
-- NPWR01760_00
-- NPWR01761_00
-- NPWR01764_00
-- NPWR01767_00
-- NPWR01768_00
-- NPWR01769_00
-- NPWR01773_00
-- NPWR01776_00
-- NPWR01777_00
-- NPWR01779_00
-- NPWR01781_00
-- NPWR01782_00
-- NPWR01783_00
-- NPWR01785_00
-- NPWR01789_00
-- NPWR01791_00
-- NPWR01792_00
-- NPWR01795_00
-- NPWR01796_00
-- NPWR01800_00
-- NPWR01804_00
-- NPWR01810_00
-- NPWR01811_00
-- NPWR01812_00
-- NPWR01813_00
-- NPWR01814_00
-- NPWR01817_00
-- NPWR01818_00
-- NPWR01819_00
-- NPWR01820_00
-- NPWR01822_00
-- NPWR01827_00
-- NPWR01828_00
-- NPWR01831_00
-- NPWR01834_00
-- NPWR01835_00
-- NPWR01839_00
-- NPWR01840_00
-- NPWR01841_00
-- NPWR01848_00
-- NPWR01855_00
-- NPWR01856_00
-- NPWR01857_00
-- NPWR01860_00
-- NPWR01862_00
-- NPWR01863_00
-- NPWR01864_00
-- NPWR01865_00
-- NPWR01866_00
-- NPWR01867_00
-- NPWR01868_00
-- NPWR01869_00
-- NPWR01878_00
-- NPWR01881_00
-- NPWR01884_00
-- NPWR01886_00
-- NPWR01887_00
-- NPWR01888_00
-- NPWR01891_00
-- NPWR01894_00
-- NPWR01895_00
-- NPWR01897_00
-- NPWR01899_00
-- NPWR01901_00
-- NPWR01902_00
-- NPWR01914_00
-- NPWR01946_00
-- NPWR01952_00
-- NPWR01962_00
-- NPWR01969_00
-- NPWR01975_00
-- NPWR01990_00
-- NPWR01992_00
-- NPWR01993_00
-- NPWR01994_00
-- NPWR02009_00
-- NPWR02011_00
-- NPWR02021_00
-- NPWR02025_00
-- NPWR02029_00
-- NPWR02036_00
-- NPWR02037_00
-- NPWR02044_00
-- NPWR02059_00
-- NPWR02060_00
-- NPWR02062_00
-- NPWR02063_00
-- NPWR02064_00
-- NPWR02067_00
-- NPWR02070_00
-- NPWR02071_00
+- NPWR03123_00 ? STEINS;GATE
+- NPWR03125_00 ? STEINS;GATE 比翼恋理のだーりん
+- NPWR03135_00 ? Rainbow Moon
+- NPWR03137_00 ? 圧倒的遊戯 ムゲンソウルズ
+- NPWR03138_00 ? Game of Thrones trophies
+- NPWR03174_00 ? Darksiders II
+- NPWR03180_00 ? Sniper Ghost Warrior® 2
+- NPWR03196_00 ? Zone of the Enders HD Edition
+- NPWR03197_00 ? Zone of the Enders: The 2nd Runner HD Edition
+- NPWR03198_00 ? Metro: Last Light
+- NPWR03200_00 ? Of Orcs And Men
+- NPWR03204_00 ? SingStar™
+- NPWR03207_00 ? Sound Shapes
+- NPWR03210_00 ? 時と永遠～トキトワ～
+- NPWR03218_00 ? LEGO® The Lord of the Rings™
+- NPWR03221_00 ? Game of Thrones trophies
+- NPWR03236_00 ? Tony Hawk's Pro Skater HD Trophies
+- NPWR03237_00 ? Madden NFL 13
+- NPWR03263_00 ? CHAOS;HEAD らぶChu☆Chu!
+- NPWR03264_00 ? CHAOS;HEAD NOAH
+- NPWR03267_00 ? The Walking Dead
+- NPWR03272_00 ? Risen 2 - Dark Waters
+- NPWR03275_00 ? Ski-Doo Snowmobile Challenge
+- NPWR03279_00 ? Major League Baseball 2K12
+- NPWR03287_00 ? SBK™ Generations
+- NPWR03292_00 ? Madagascar 3
+- NPWR03297_00 ? 007™ Legends
+- NPWR03319_00 ? 三極姫～戦煌の大火・暁の覇龍～
+- NPWR03322_00 ? Cartoon Network Punch Time Explosion XL
+- NPWR03335_00 ? ぱちんこ 必殺仕事人Ⅳ　KYORAKUコレクション Vol.2
+- NPWR03337_00 ? Crash Time 5 - Undercover
+- NPWR03350_00 ? アクセル・ワールド －銀翼の覚醒－
+- NPWR03351_00 ? アクセル・ワールド －加速の頂点－
+- NPWR03361_00 ? Air Conflicts: Pacific Carriers Trophäen
+- NPWR03378_00 ? ROBOTICS;NOTES
+- NPWR03382_00 ? 薄桜鬼 黎明録 名残り草
+- NPWR03400_00 ? スーパーヒーロージェネレーション
+- NPWR03406_00 ? 実戦パチスロ必勝法！ 北斗の拳F 世紀末救世主伝説
+- NPWR03410_00 ? Tales of Graces f
+- NPWR03414_00 ? Dyad
+- NPWR03418_00 ? 龍が如く
+- NPWR03421_00 ? WRC 3
+- NPWR03436_00 ? 「太平洋の嵐~戦艦大和、暁に出撃す！~」トロフィーセット
+- NPWR03464_00 ? Sonic & All-Stars Racing Transformed™
+- NPWR03465_00 ? 龍が如く５　夢、叶えし者
+- NPWR03466_00 ? Atelier Ayesha ~The Alchemist of Dusk~
+- NPWR03468_00 ? Far Cry® 3
+- NPWR03480_00 ? Ultra Dimension NeptuneV
+- NPWR03481_00 ? SENRAN KAGURA SHINOVI VERSUS
+- NPWR03485_00 ? METAL GEAR SOLID 4
+- NPWR03489_00 ? 戦国BASARA HD
+- NPWR03490_00 ? 戦国BASARA2 HD
+- NPWR03491_00 ? 戦国BASARA2 英雄外伝 HD
+- NPWR03493_00 ? エクストルーパーズ
+- NPWR03495_00 ? WWE '13
+- NPWR03500_00 ? Los Caballeros del Zodiaco: Batalla por el Santuario
+- NPWR03501_00 ? テイルズ オブ エクシリア2
+- NPWR03505_00 ? 魔女と百騎兵
+- NPWR03509_00 ? LittleBigPlanet™3
+- NPWR03514_00 ? Dragon Ball Z Budokai HD Collection
+- NPWR03519_00 ? F1 2012™
+- NPWR03520_00 ? BEN 10 OMNIVERSE™
+- NPWR03522_00 ? Crysis®3
+- NPWR03525_00 ? NARUTO STORM 3
+- NPWR03526_00 ? ONE PIECE: PIRATE WARRIORS
+- NPWR03529_00 ? Ratchet & Clank™: QForce
+- NPWR03534_00 ? Dragon Age™: Inquisition
+- NPWR03545_00 ? ジョジョの奇妙な冒険　オールスターバトル
+- NPWR03546_00 ? Assassin's Creed® III
+- NPWR03550_00 ? Ice Age™ 4: Continental Drift: Arctic Games
+- NPWR03554_00 ? DOOM® 3
+- NPWR03558_00 ? Hunter's Trophy 2 - Europa
+- NPWR03559_00 ? Obut Pétanque 2
+- NPWR03577_00 ? ファントムブレイカー:エクストラ
+- NPWR03578_00 ? Cabela's® Dangerous Hunts 2013
+- NPWR03580_00 ? XCOM: Enemy Unknown
+- NPWR03581_00 ? Sly Cooper: Thieves in Time™
+- NPWR03591_00 ? 初音ミク -Project DIVA- f
+- NPWR03594_00 ? HEAVY FIRE AFGHANISTAN
+- NPWR03595_00 ? Worms™ Revolution
+- NPWR03598_00 ? ドリームクラブComplete Edipyon!
+- NPWR03601_00 ? Lost Planet 3
+- NPWR03606_00 ? Alien: Isolation
+- NPWR03610_00 ? Port Royale 3
+- NPWR03612_00 ? FIFA 13
+- NPWR03613_00 ? 暁の護衛 トリニティ
+- NPWR03622_00 ? Medal of Honor™ Warfighter Trophies
+- NPWR03629_00 ? 智代アフター ～It's a Wonderful Life～ CS Edition
+- NPWR03632_00 ? Ni no Kuni: Wrath of the White Witch
+- NPWR03641_00 ? Pro Foosball
+- NPWR03642_00 ? Disney Epic Mickey 2: The Power of Two
+- NPWR03649_00 ? OKAMI HD
+- NPWR03650_00 ? Wonderbook™: Book of Spells
+- NPWR03652_00 ? Legasista
+- NPWR03657_00 ? Skylanders Giants
+- NPWR03661_00 ? Just Dance 4
+- NPWR03664_00 ? Zombie Tycoon 2: Brainhov's Revenge
+- NPWR03670_00 ? Kingdoms of Amalur: Reckoning (J)
+- NPWR03680_00 ? Hitman: Blood Money
+- NPWR03681_00 ? Hitman: Contracts
+- NPWR03684_00 ? Hitman 2: Silent Assassin
+- NPWR03686_00 ? Mugen Souls
+- NPWR03690_00 ? Sports Champions™ 2
+- NPWR03692_00 ? Pro Evolution Soccer 2013
+- NPWR03693_00 ? Schlag den Raab – Das 3. Spiel
+- NPWR03695_00 ? Cabela's® Hunting Expeditions
+- NPWR03699_00 ? 真・三國無双６ Empires
+- NPWR03709_00 ? NBA 2K13
+- NPWR03714_00 ? WORLD SOCCER Winning Eleven 2013
+- NPWR03718_00 ? DEAD OR ALIVE 5
+- NPWR03722_00 ? WORLD SOCCER Winning Eleven 2013
+- NPWR03724_00 ? マクロス30～銀河を繋ぐ歌声～
+- NPWR03725_00 ? The Testament of Sherlock Holmes Trophy Set
+- NPWR03726_00 ? 激アツ!! パチゲー魂MAX ヱヴァンゲリヲン “7” × “生命の鼓動”
+- NPWR03729_00 ? WHITE ALBUM2 幸せの向こう側
+- NPWR03734_00 ? F1 Race Stars
+- NPWR03740_00 ? 三國志12
+- NPWR03742_00 ? ドリームクラブZERO Special Edipyon!
+- NPWR03745_00 ? 真・三國無双７
+- NPWR03752_00 ? みんなのGOLF 6
+- NPWR03754_00 ? ガンダムブレイカー
+- NPWR03760_00 ? Pro Evolution Soccer 2013
+- NPWR03768_00 ? DanceStar™ Party Hits
+- NPWR03769_00 ? Everybody Dance™ 2
+- NPWR03771_00 ? Angry Birds Trilogy
+- NPWR03772_00 ? Fuse™
+- NPWR03776_00 ? Guacamelee!
+- NPWR03778_00 ? Oddworld: Munch's Oddysee HD
+- NPWR03780_00 ? Disney•Pixar Toy Story Mania!
+- NPWR03781_00 ? Midway Arcade Origins
+- NPWR03797_00 ? Beyond: Two Souls™
+- NPWR03805_00 ? DmC Devil May Cry™
+- NPWR03806_00 ? Dead Island Riptide
+- NPWR03808_00 ? Dead Space™ 3
+- NPWR03812_00 ? ハートフルシミュレーター PACHISLOT ToHeart2
+- NPWR03814_00 ? Remember Me™
+- NPWR03819_00 ? Killzone
+- NPWR03821_00 ? Legends of War
+- NPWR03824_00 ? 龍が如く2
+- NPWR03830_00 ? HEAVY FIRE SHATTERED SPEAR
+- NPWR03836_00 ? BATTLE OF TILES EX
+- NPWR03845_00 ? The Bureau: XCOM Declassified
+- NPWR03848_00 ? マブラヴ オルタネイティヴ
+- NPWR03849_00 ? マブラヴ
+- NPWR03852_00 ? Dragon's Crown
+- NPWR03854_00 ? 압도적유희 무겐소울즈
+- NPWR03880_00 ? STEINS;GATE
+- NPWR03885_00 ? Grand Theft Auto V
+- NPWR03903_00 ? Resident Evil Revelations
+- NPWR03907_00 ? Tom Clancy's Splinter Cell® Blacklist™
+- NPWR03911_00 ? RISE OF THE GUARDIANS
+- NPWR03936_00 ? South Park™: The Stick of Truth™
+- NPWR03948_00 ? Darksiders II
+- NPWR03953_00 ? UNDER DEFEAT HD DELUXE EDITION
+- NPWR03961_00 ? GRID 2
+- NPWR03981_00 ? Z/X トロフィー
+- NPWR03982_00 ? 真・北斗無双
+- NPWR03984_00 ? Army of TWO™ The Devil's Cartel
+- NPWR03990_00 ? Tiger Woods PGA TOUR® 14
+- NPWR04000_00 ? Mass Effect™
+- NPWR04001_00 ? METAL GEAR RISING: REVENGEANCE
+- NPWR04003_00 ? Legends of War: Patton
+- NPWR04007_00 ? MLB® 13 The Show™ (PS3)
+- NPWR04008_00 ? The Walking Dead : Survival Instinct
+- NPWR04019_00 ? FARCRY CLASSIC
+- NPWR04020_00 ? NAtURAL DOCtRINE
+- NPWR04032_00 ? XBLAZE CODE : EMBRYO
+- NPWR04033_00 ? BLAZBLUE CHRONOPHANTASMA Trophy
+- NPWR04034_00 ? Injustice
+- NPWR04036_00 ? 実況パワフルプロ野球２０１２決定版
+- NPWR04063_00 ? KINGDOM HEARTS FINAL MIX
+- NPWR04066_00 ? SingStar™
+- NPWR04072_00 ? Deadpool
+- NPWR04077_00 ? Scourge: Outbreak
+- NPWR04085_00 ? ワンピース 海賊無双２
+- NPWR04087_00 ? 戦極姫3～天下を切り裂く光と影～
+- NPWR04101_00 ? KINGDOM HEARTS Re:Chain of Memories
+- NPWR04104_00 ? Arcania
+- NPWR04108_00 ? Zombie Driver HD
+- NPWR04119_00 ? Ragnarok Odyssey ACE
+- NPWR04128_00 ? DRAGON BALL XENOVERSE
+- NPWR04136_00 ? サカつく プロサッカークラブをつくろう！
+- NPWR04140_00 ? 神様と運命革命のパラドクス
+- NPWR04148_00 ? LIGHTNING RETURNS: FINAL FANTASY XIII
+- NPWR04150_00 ? Diablo III
+- NPWR04151_00 ? Batman™: Arkham Origins
+- NPWR04155_00 ? Combat Wings
+- NPWR04156_00 ? モンスターハンター　フロンティアＧ
+- NPWR04158_00 ? BandFuse
+- NPWR04163_00 ? ディスガイア D2
+- NPWR04172_00 ? Deadly Premonition: The Director's Cut
+- NPWR04173_00 ? Mamorukun Curse!
+- NPWR04175_00 ? Defiance
+- NPWR04178_00 ? Winning Post 7 2013
+- NPWR04202_00 ? Hyperdimension Neptunia Victory
+- NPWR04204_00 ? マブラヴ オルタネイティヴ トータル・イクリプス
+- NPWR04205_00 ? メモリーズオフ6 Complete
+- NPWR04206_00 ? メモリーズオフ ゆびきりの記憶
+- NPWR04207_00 ? Saint Seiya: Brave Soldiers
+- NPWR04209_00 ? 車輪の国、向日葵の少女
+- NPWR04211_00 ? Iron Sky Invasion
+- NPWR04215_00 ? Move Street Cricket II
+- NPWR04227_00 ? Painkiller Hell & Damnation
+- NPWR04234_00 ? プロ野球スピリッツ2013
+- NPWR04263_00 ? AKIBA'S TRIP 2 トロフィーセット
+- NPWR04269_00 ? 機動戦士ガンダム エクストリームバーサス フルブースト
+- NPWR04270_00 ? Terraria
+- NPWR04282_00 ? 真・三國無雙６ Empires
+- NPWR04288_00 ? DEAD OR ALIVE 5 PLUS
+- NPWR04293_00 ? Truck Racer
+- NPWR04296_00 ? Fast & Furious™: Showdown
+- NPWR04298_00 ? Fist of the North Star: Ken’s Rage 2
+- NPWR04303_00 ? 大戦略大東亜興亡史～トラ・トラ・トラワレ奇襲ニ成功セリ～ トロフィー
+- NPWR04306_00 ? PlayStation®Move Fitness™
+- NPWR04311_00 ? DYNASTY WARRIORS 7 Empires
+- NPWR04312_00 ? Magrunner: Dark Pulse
+- NPWR04317_00 ? NINJA GAIDEN 3: Razor's Edge
+- NPWR04325_00 ? お姉チャンバラZ～カグラ～ With NoNoNo!
+- NPWR04327_00 ? Diggs Nightcrawler™
+- NPWR04328_00 ? NCAA® Football 14
+- NPWR04333_00 ? リトルバスターズ！Converted Edition
+- NPWR04336_00 ? 地球防衛軍４
+- NPWR04338_00 ? Tales of Xillia
+- NPWR04347_00 ? MotoGP™13
+- NPWR04352_00 ? ARMORED CORE VERDICT DAY
+- NPWR04365_00 ? ケツイ ～絆地獄たち～ EXTRA
+- NPWR04372_00 ? Strider
 
-## Set 8
+- NPWR04374_00 ? KILLER IS DEAD™
+- NPWR04382_00 ? Tales of Xillia
+- NPWR04388_00 ? STEINS;GATE 線形拘束のフェノグラム
+- NPWR04400_00 ? LEGO® Marvel Super Heroes
+- NPWR04402_00 ? Skylanders SWAP Force
+- NPWR04406_00 ? Frozen Synapse Prime
+- NPWR04412_00 ? Battlefield 4™ Trophies
+- NPWR04416_00 ? 圧倒的遊戯 ムゲンソウルズＺ
+- NPWR04418_00 ? Murdered: Soul Suspect
+- NPWR04420_00 ? Velocity®Ultra
+- NPWR04423_00 ? Major League Baseball 2K13
+- NPWR04425_00 ? 仮面ライダー　バトライド・ウォー
 
-- NPWR02088_00
-- NPWR02094_00
-- NPWR02104_00
-- NPWR02108_00
-- NPWR02111_00
-- NPWR02117_00
-- NPWR02121_00
-- NPWR02122_00
-- NPWR02125_00
-- NPWR02127_00
-- NPWR02131_00
-- NPWR02133_00
-- NPWR02138_00
-- NPWR02139_00
-- NPWR02149_00
-- NPWR02153_00
-- NPWR02156_00
-- NPWR02157_00
-- NPWR02159_00
-- NPWR02161_00
-- NPWR02163_00
-- NPWR02171_00
-- NPWR02181_00
-- NPWR02184_00
-- NPWR02193_00
-- NPWR02201_00
-- NPWR02203_00
-- NPWR02209_00
-- NPWR02223_00
-- NPWR02249_00
-- NPWR02260_00
-- NPWR02261_00
-- NPWR02284_00
-- NPWR02286_00
-- NPWR02292_00
-- NPWR02293_00
-- NPWR02294_00
-- NPWR02295_00
-- NPWR02300_00
-- NPWR02303_00
-- NPWR02312_00
-- NPWR02314_00
-- NPWR02316_00
-- NPWR02322_00
-- NPWR02323_00
-- NPWR02325_00
-- NPWR02334_00
-- NPWR02335_00
-- NPWR02343_00
-- NPWR02346_00
-- NPWR02347_00
-- NPWR02348_00
-- NPWR02350_00
-- NPWR02359_00
-- NPWR02367_00
-- NPWR02372_00
-- NPWR02376_00
-- NPWR02377_00
-- NPWR02378_00
-- NPWR02379_00
-- NPWR02380_00
-- NPWR02381_00
-- NPWR02389_00
-- NPWR02391_00
-- NPWR02401_00
-- NPWR02402_00
-- NPWR02410_00
-- NPWR02411_00
-- NPWR02426_00
-- NPWR02441_00
-- NPWR02466_00
-- NPWR02471_00
-- NPWR02485_00
-- NPWR02488_00
-- NPWR02490_00
-- NPWR02493_00
-- NPWR02494_00
-- NPWR02497_00
-- NPWR02500_00
-- NPWR02503_00
-- NPWR02506_00
-- NPWR02529_00
-- NPWR02537_00
-- NPWR02540_00
-- NPWR02541_00
-- NPWR02544_00
-- NPWR02545_00
-- NPWR02553_00
-- NPWR02558_00
-- NPWR02560_00
-- NPWR02564_00
-- NPWR02565_00
-- NPWR02569_00
-- NPWR02572_00
-- NPWR02575_00
-- NPWR02582_00
-- NPWR02586_00
-- NPWR02609_00
-- NPWR02621_00
-- NPWR02622_00
+- NPWR04426_00 ? Everybody's Golf®
+- NPWR04429_00 ? Everybody's Golf™ 6
+- NPWR04430_00 ? スーパーロボット大戦ＯＧサーガ　魔装機神Ⅲ　PRIDE OF JUSTICE
+- NPWR04433_00 ? Legends of War
+- NPWR04443_00 ? LEGO® MARVEL Super Heroes: Universe in Peril
+- NPWR04447_00 ? Hot Shots Golf: World Invitational
+- NPWR04454_00 ? Hyperdimension Neptunia Victory
+- NPWR04461_00 ? Serious Sam 3: BFE
+- NPWR04463_00 ? Disney Infinity
+- NPWR04465_00 ? RUGBY CHALLENGE 2
+- NPWR04492_00 ? Turbo: Super Stunt Squad
+- NPWR04494_00 ? テイルズ オブ シンフォニア
+- NPWR04495_00 ? テイルズ オブ シンフォニア -ラタトスクの騎士-
+- NPWR04497_00 ? Tour de France 2013 - 100th Edition
+- NPWR04500_00 ? Time and Eternity
+- NPWR04503_00 ? Legends of War: Patton (Digital)
+- NPWR04508_00 ? 真・三國無雙７
+- NPWR04518_00 ? Don Bradman Cricket 14
+- NPWR04524_00 ? ビビッドレッド・オペレーション -Hyper Intimate Power-
+- NPWR04527_00 ? WATCH_DOGS™
+- NPWR04529_00 ? The Smurfs™ 2
+- NPWR04531_00 ? Rocksmith 2014
+- NPWR04533_00 ? Hotline Miami
+- NPWR04535_00 ? XCOM: Enemy Within
+- NPWR04537_00 ? Rayman® Legends
+- NPWR04552_00 ? Madden NFL 25
+- NPWR04562_00 ? TMNT:OOTS
+- NPWR04563_00 ? テラリア
+- NPWR04575_00 ? DEAD OR ALIVE 5 Ultimate
+- NPWR04578_00 ? NHL® 14 Trophies
+- NPWR04584_00 ? Hakuoki: Stories of the Shinsengumi
+- NPWR04605_00 ? Invizimals™ : Le Royaume Perdu
+- NPWR04608_00 ? アルカディアスの戦姫
+- NPWR04609_00 ? デート・ア・ライブ　凜祢ユートピア
+- NPWR04611_00 ? Young Justice: Legacy
+- NPWR04616_00 ? FIFA 14
+- NPWR04620_00 ? AFL Live 2
+- NPWR04633_00 ? Assassin's Creed® IV Black Flag
+- NPWR04652_00 ? エスカ＆ロジーのアトリエ　～黄昏の空の錬金術士～
+- NPWR04656_00 ? WRC 4 FIA WORLD RALLY CHAMPIONSHIP
+- NPWR04657_00 ? F1® 2013
+- NPWR04660_00 ? DYNASTY WARRIORS 8
+- NPWR04670_00 ? Pro Foosball
+- NPWR04672_00 ? 英雄伝説 閃の軌跡
+- NPWR04679_00 ? Hatsune Miku: Project DIVA F
+- NPWR04682_00 ? Drakengard 3
+- NPWR04685_00 ? Dungeons & Dragons® ―ミスタラ英雄戦記―
+- NPWR04688_00 ? 実況パワフルプロ野球２０１３
+- NPWR04693_00 ? 俺の妹がこんなに可愛いわけがない。 ハッピーエンド
+- NPWR04695_00 ? Ratchet & Clank: Into the Nexus™
+- NPWR04706_00 ? 三極姫２～皇旗咆哮・覚醒めし大牙～
+- NPWR04712_00 ? Gran Turismo®6
+- NPWR04714_00 ? Hot Wheels™ World's Best Driver™
+- NPWR04716_00 ? DISORDER6
+- NPWR04720_00 ? Need for Speed™ Rivals
+- NPWR04738_00 ? Saints Row IV
+- NPWR04746_00 ? DEAD ISLAND RIPTIDE
+- NPWR04749_00 ? Armored Core™: Verdict Day™
 
-## Set 9
+- NPWR04759_00 ? 俺たちに翼はない
+- NPWR04773_00 ? NBA 2K14
+- NPWR04775_00 ? るいは智を呼ぶ
+- NPWR04787_00 ? Assassin's Creed® Liberation HD
+- NPWR04799_00 ? AKB1/149 恋愛総選挙（PlayStation®3版）
+- NPWR04811_00 ? El Chavo Kart
+- NPWR04812_00 ? 三國志12 with パワーアップキット
+- NPWR04836_00 ? 家族計画 Re:紡ぐ糸
+- NPWR04837_00 ? 無双OROCHI２ Ultimate
+- NPWR04847_00 ? Dragon Ball Z: Battle of Z
+- NPWR04864_00 ? ティアーズ・トゥ・ティアラⅡ 覇王の末裔
+- NPWR04870_00 ? Air Conflicts: Vietnam Trophies
+- NPWR04874_00 ? Call of Duty® Ghosts
+- NPWR04877_00 ? フェアリーフェンサー エフ
+- NPWR04891_00 ? SpongeBob Squarepants: Plankton's Robotic Revenge
+- NPWR04893_00 ? Angry Birds™ Star Wars
+- NPWR04894_00 ? Cabela's® Big Game Hunter®: Pro Hunts
+- NPWR04895_00 ? Cabela's® African Adventures
+- NPWR04897_00 ? MLB® 14 The Show™
+- NPWR04898_00 ? ONE PIECE: PIRATE WARRIORS 2
+- NPWR04910_00 ? PAC-MAN and the Ghostly Adventures
+- NPWR04911_00 ? スーパーロボット大戦OG INFINITE BATTLE
+- NPWR04915_00 ? FINAL FANTASY X HD Remaster
+- NPWR04918_00 ? Castlevania: Lords of Shadow 2
+- NPWR04922_00 ? Dragon Fantasy Book II
+- NPWR04936_00 ? Destiny
+- NPWR04937_00 ? Adventure Time: Explore the Dungeon Because I DON'T KNOW!
+- NPWR04940_00 ? Wonderbook™: Book of Potions
+- NPWR04948_00 ? Lone Survivor
+- NPWR04979_00 ? Wonderbook™: Walking with Dinosaurs
+- NPWR04986_00 ? 英雄＊戦姫
+- NPWR04997_00 ? WORLD SOCCER Winning Eleven 2014
+- NPWR05003_00 ? Just Dance 2014
+- NPWR05005_00 ? Pro Evolution Soccer 2014
+- NPWR05011_00 ? TRANSFORMERS: Rise of the Dark Spark
+- NPWR05014_00 ? 向日葵の教会と長い夏休み -extra vacation-
+- NPWR05019_00 ? FINAL FANTASY X-2 HD Remaster
+- NPWR05028_00 ? Disgaea D2
+- NPWR05031_00 ? Disgaea D2
+- NPWR05041_00 ? WWE 2K14
+- NPWR05045_00 ? Everybody Dance™ 3
+- NPWR05046_00 ? PAYDAY 2
+- NPWR05049_00 ? Wolfenstein®: The New Order
+- NPWR05054_00 ? 真・三國無双７ 猛将伝
+- NPWR05072_00 ? WORLD SOCCER Winning Eleven 2014
+- NPWR05076_00 ? Pro Evolution Soccer 2014
+- NPWR05079_00 ? 戦極姫４～争覇百計、花守る誓い～
+- NPWR05091_00 ? Enemy Front
+- NPWR05102_00 ? Magus
+- NPWR05108_00 ? 花咲くまにまに
+- NPWR05109_00 ? 戦国無双２ Empires HD Version
+- NPWR05110_00 ? 戦国無双２ with 猛将伝 HD Version
+- NPWR05115_00 ? Deus Ex: Human Revolution - Director's Cut
+- NPWR05116_00 ? 魔界戰記D2
+- NPWR05120_00 ? 圧倒的遊戯 ムゲンソウルズＺ
+- NPWR05139_00 ? Saints Row IV
+- NPWR05140_00 ? 麻雀覇王 段級バトル3
+- NPWR05149_00 ? 戦国BASARA4
+- NPWR05163_00 ? Winning Post 8
+- NPWR05167_00 ? The LEGO® Movie - Videogame
+- NPWR05171_00 ? 解放少女 SIN
+- NPWR05175_00 ? Yaiba: Ninja Gaiden Z
+- NPWR05178_00 ? ルートダブル -Before Crime * After Days- Xtend edition
+- NPWR05184_00 ? ‘&’ -空の向こうで咲きますように‐
+- NPWR05185_00 ? The Walking Dead
+- NPWR05207_00 ? 第３次スーパーロボット大戦Ｚ　時獄篇
+- NPWR05209_00 ? SOULCALIBUR Ⅱ HD ONLINE
+- NPWR05213_00 ? The Guided Fate Paradox
+- NPWR05232_00 ? BEN 10 OMNIVERSE™ 2
+- NPWR05256_00 ? RAMBO THE VIDEO GAME
+- NPWR05260_00 ? 信長の野望･創造
+- NPWR05271_00 ? 新・ロロナのアトリエ はじまりの物語
+～アーランドの錬金術士～
+- NPWR05292_00 ? The Voice of Germany Vol. 2
+- NPWR05300_00 ? EarthDefenseForce 2025
+- NPWR05308_00 ? 魁!!男塾 ～日本よ、これが男である！～
+- NPWR05321_00 ? 真・ガンダム無双
+- NPWR05334_00 ? The Raven
+- NPWR05342_00 ? The Wolf Among Us
+- NPWR05393_00 ? Thief
+- NPWR05394_00 ? 初音ミク -Project DIVA- F 2nd
+- NPWR05400_00 ? Middle-earth: Shadow of Mordor
+- NPWR05412_00 ? Velocity®2X
+- NPWR05415_00 ? Tales of Symphonia
+- NPWR05416_00 ? Tales of Symphonia Dawn of the New World
+- NPWR05439_00 ? XBLAZE CODE : EMBRYO
+- NPWR05443_00 ? 龍が如く 維新！
+- NPWR05479_00 ? BLOODBATH
+- NPWR05486_00 ? 戦国無双４
+- NPWR05487_00 ? ぷよぷよテトリス
+- NPWR05520_00 ? Zombie Tycoon 2: Brainhov's Revenge
+- NPWR05571_00 ? 真・恋姫夢想～乙女対戦★三国志演義～
+- NPWR05594_00 ? NASCAR '14
+- NPWR05597_00 ? モット！ソニコミ
+- NPWR05625_00 ? プロ野球スピリッツ2014
+- NPWR05636_00 ? Minecraft: PlayStation®3 Edition
+- NPWR05640_00 ? 魔都紅色幽擊隊
+- NPWR05647_00 ? 影牢 ～ダークサイド プリンセス～
+- NPWR05648_00 ? 超ヒロイン戦記
+- NPWR05654_00 ? ＣＶ ～キャスティングボイス～
+- NPWR05655_00 ? Ar nosurge: Ode to an Unborn Star
+- NPWR05661_00 ? IS＜インフィニット・ストラトス＞2
+イグニッション・ハーツ
+- NPWR05666_00 ? Rugby League Live 2 - World Cup Edition
+- NPWR05670_00 ? Kick-Ass 2
+- NPWR05676_00 ? 真・三國無雙７ 猛將傳
+- NPWR05679_00 ? Rozen Maiden -Wechseln sie welt ab-
+- NPWR05696_00 ? アルカナハート３ LOVEMAX!!!!!
+- NPWR05711_00 ? Sniper Elite 3
+- NPWR05735_00 ? The Cube
+- NPWR05737_00 ? Monster Monpiece
+- NPWR05746_00 ? Bound by Flame
+- NPWR05747_00 ? MXGP - The Official Motocross Videogame
+- NPWR05751_00 ? DARK SOULS Ⅱ
+- NPWR05787_00 ? ドリームクラブGogo.
+- NPWR05794_00 ? Jスターズ ビクトリーバーサス
+- NPWR05796_00 ? Master Reboot
+- NPWR05808_00 ? The Amazing Spider-Man 2™
+- NPWR05831_00 ? AKIBA'S TRIP 2 獎盃組
+- NPWR05839_00 ? IHF Handball Challenge 14
+- NPWR05840_00 ? JoJo's Bizarre Adventure: All-Star Battle
+- NPWR05868_00 ? Oddworld: New 'n' Tasty
+- NPWR05881_00 ? Sherlock Holmes: Crimes and Punishments
+- NPWR05887_00 ? LEGO® The Hobbit™
+- NPWR05907_00 ? Batman™: Arkham Origins Blackgate - Deluxe Edition
+- NPWR05915_00 ? The Witch and the Hundred Knight
+- NPWR05920_00 ? 2014 FIFA World Cup Brazil™
+- NPWR05922_00 ? SOULCALIBUR Ⅱ HD ONLINE
+- NPWR05938_00 ? Tour de France 2014
+- NPWR05944_00 ? STEINS;GATE
+- NPWR05945_00 ? STEINS;GATE 비익연리의 달링
+- NPWR05946_00 ? STEINS;GATE 선형구속의 페노그램
+- NPWR05952_00 ? LOST DIMENSION
+- NPWR05982_00 ? ハーレム天国だと思ったらヤンデレ地獄だった。
+- NPWR06010_00 ? NARUTO STORM R
+- NPWR06021_00 ? アイドルマスター ワンフォーオール
+- NPWR06032_00 ? Tales of Xillia 2
+- NPWR06034_00 ? Deception IV: Blood Ties
+- NPWR06035_00 ? Deception IV: Blood Ties
+- NPWR06052_00 ? DYNASTY WARRIORS 8: Xtreme Legends
+- NPWR06091_00 ? 仮面ライダー バトライド・ウォーⅡ
+- NPWR06110_00 ? ONE PIECE Unlimited World Red
+- NPWR06112_00 ? UNDER NIGHT IN-BIRTH Exe:Late Trophy
+- NPWR06121_00 ? 雷電IV OverKill
+- NPWR06122_00 ? カラドリウス ブレイズ
 
-- NPWR02631_00
-- NPWR02635_00
-- NPWR02636_00
-- NPWR02639_00
-- NPWR02642_00
-- NPWR02645_00
-- NPWR02646_00
-- NPWR02652_00
-- NPWR02658_00
-- NPWR02660_00
-- NPWR02666_00
-- NPWR02712_00
-- NPWR02714_00
-- NPWR02719_00
-- NPWR02720_00
-- NPWR02724_00
-- NPWR02726_00
-- NPWR02727_00
-- NPWR02730_00
-- NPWR02746_00
-- NPWR02747_00
-- NPWR02751_00
-- NPWR02758_00
-- NPWR02777_00
-- NPWR02779_00
-- NPWR02803_00
-- NPWR02812_00
-- NPWR02835_00
-- NPWR02836_00
-- NPWR02839_00
-- NPWR02841_00
-- NPWR02846_00
-- NPWR02849_00
-- NPWR02865_00
-- NPWR02872_00
-- NPWR02896_00
-- NPWR02908_00
-- NPWR02910_00
-- NPWR02915_00
-- NPWR02920_00
-- NPWR02924_00
-- NPWR02925_00
-- NPWR02933_00
-- NPWR02935_00
-- NPWR02947_00
-- NPWR02961_00
-- NPWR02962_00
-- NPWR02969_00
-- NPWR02972_00
-- NPWR02973_00
-- NPWR02976_00
-- NPWR02986_00
-- NPWR02997_00
-- NPWR03010_00
-- NPWR03023_00
-- NPWR03024_00
-- NPWR03025_00
-- NPWR03044_00
-- NPWR03050_00
-- NPWR03052_00
-- NPWR03056_00
-- NPWR03058_00
-- NPWR03063_00
-- NPWR03067_00
-- NPWR03073_00
-- NPWR03080_00
-- NPWR03087_00
-- NPWR03096_00
-- NPWR03098_00
-- NPWR03104_00
-- NPWR03108_00
-- NPWR03109_00
-- NPWR03114_00
-- NPWR03116_00
-- NPWR03123_00
-- NPWR03125_00
-- NPWR03135_00
-- NPWR03137_00
-- NPWR03138_00
-- NPWR03174_00
-- NPWR03180_00
-- NPWR03196_00
-- NPWR03197_00
-- NPWR03198_00
-- NPWR03200_00
-- NPWR03204_00
-- NPWR03207_00
-- NPWR03210_00
-- NPWR03218_00
-- NPWR03221_00
-- NPWR03236_00
-- NPWR03237_00
-- NPWR03263_00
-- NPWR03264_00
-- NPWR03267_00
-- NPWR03272_00
-- NPWR03275_00
-- NPWR03279_00
-- NPWR03287_00
-- NPWR03292_00
+- NPWR06130_00 ? マブラヴ photonflowers*
+- NPWR06135_00 ? Risen 3 - Titan Lords
+- NPWR06140_00 ? Tales from the Borderlands
+- NPWR06159_00 ? The Treasures of Montezuma 4
+- NPWR06172_00 ? Tales of Xillia 2
+- NPWR06183_00 ? HELLDIVERS™
+- NPWR06200_00 ? Persona 4 Arena Ultimax Trophies
+- NPWR06202_00 ? MOBILE SUIT GUNDAM SIDE STORIES
+- NPWR06208_00 ? Raiden Ⅳ: OverKill
+- NPWR06214_00 ? MotoGP™14
+- NPWR06224_00 ? 페어리 펜서 F
+- NPWR06231_00 ? Arcana Heart 3 LOVE MAX!!!!!
+- NPWR06243_00 ? KINGDOM HEARTS II FINAL MIX
+- NPWR06250_00 ? KINGDOM HEARTS Birth by Sleep FINAL MIX
+- NPWR06254_00 ? Hotline Miami 2: Wrong Number
+- NPWR06257_00 ? PvZ Garden Warfare
+- NPWR06264_00 ? Falling Skies: The Game
+- NPWR06265_00 ? How To Train Your Dragon 2
+- NPWR06281_00 ? NHL® 15 Trophies
+- NPWR06306_00 ? Pier Solar and the Great Architects
+- NPWR06308_00 ? Mugen Souls Z
+- NPWR06310_00 ? Metropolis Defenders
+- NPWR06314_00 ? Jimmie Johnson's Anything With An Engine
+- NPWR06320_00 ? 信長之野望･創造
+- NPWR06363_00 ? Fairy Fencer F
+- NPWR06364_00 ? Cartoon Network Punch Time Explosion XL
+- NPWR06370_00 ? Escape Dead Island
+- NPWR06384_00 ? The Evil Within
+- NPWR06385_00 ? PsychoBreak
+- NPWR06386_00 ? 最強将棋 激指13
+- NPWR06387_00 ? 覆面闘士
+- NPWR06414_00 ? CROSS†CHANNEL ～For all people～
+- NPWR06419_00 ? Battle Princess of Arcadias
+- NPWR06437_00 ? 神様と運命覚醒のクロステーゼ
+- NPWR06444_00 ? シャリーのアトリエ　～黄昏の海の錬金術士～
+- NPWR06460_00 ? デート・ア・ライブ　或守インストール
+- NPWR06468_00 ? Madden NFL 15
+- NPWR06473_00 ? ダウンタウン熱血行進曲
+- NPWR06487_00 ? 真 流行り神
+- NPWR06494_00 ? 英雄伝説 閃の軌跡Ⅱ
+- NPWR06512_00 ? LEGO® Batman™ 3
+- NPWR06515_00 ? Diablo III: Reaper of Souls
+- NPWR06524_00 ? バレットガールズ
+- NPWR06531_00 ? AKIBA'S TRIP: Undead ＆ Undressed Trophy Set
+- NPWR06538_00 ? 実況パワフルプロ野球２０１４
+- NPWR06542_00 ? GRID Autosport
+- NPWR06575_00 ? RESIDENT EVIL REVELATIONS 2
+- NPWR06596_00 ? Adventure Time: the Secret of the Nameless Kingdom
+- NPWR06654_00 ? Teenage Mutant Ninja Turtles™: Danger of the Ooze
+- NPWR06659_00 ? WARRIORS OROCHI 3 Ultimate
+- NPWR06664_00 ? MX vs ATV Supercross
+- NPWR06678_00 ? テイルズ オブ ゼスティリア
+- NPWR06683_00 ? FIFA 15
+- NPWR06689_00 ? Atelier Rorona Plus
+~The Alchemist of Arland~
+- NPWR06708_00 ? Duck Dynasty
+- NPWR06715_00 ? Just Dance® 2015
+- NPWR06717_00 ? Skylanders Trap Team
+- NPWR06724_00 ? Rogue Legacy
+- NPWR06729_00 ? Chivalry: Medieval Warfare
+- NPWR06740_00 ? Borderlands: The Pre-Sequel
+- NPWR06751_00 ? DYNASTY WARRIORS: GUNDAM Reborn
+- NPWR06752_00 ? ROBOTICS;NOTES
+- NPWR06754_00 ? MOBILE SUIT GUNDAM SIDE STORIES
+- NPWR06757_00 ? Disney Infinity [2.0]
+- NPWR06760_00 ? NBA 2K15
+- NPWR06764_00 ? Teslagrad
+- NPWR06778_00 ? The Legend of Korra
+- NPWR06783_00 ? PAC-MAN and the Ghostly Adventures 2
+- NPWR06855_00 ? Battlefield™ Hardline Trophies
+- NPWR06868_00 ? SAMURAI WARRIORS 4
+- NPWR06900_00 ? WWE 2K15
+- NPWR06949_00 ? Geometry Wars³: Dimensions
+- NPWR06955_00 ? Far Cry® 4
+- NPWR06957_00 ? Digimon All-Star Rumble
+- NPWR06959_00 ? ガンダムブレイカー2
+- NPWR06960_00 ? スーパーロボット大戦ＯＧサーガ　魔装機神Ｆ　COFFIN OF THE END
+- NPWR06989_00 ? Bound by Flame
+- NPWR06992_00 ? NAtURAL DOCtRINE
+- NPWR07017_00 ? GUILTY GEAR Xrd -SIGN- Trophy
+- NPWR07036_00 ? The Voice
+- NPWR07057_00 ? Resident Evil
+- NPWR07086_00 ? RESOGUN™
+- NPWR07090_00 ? Deadly Premonition
+- NPWR07096_00 ? Advanced Warfare
+- NPWR07114_00 ? マブラヴ photonmelodies♮
+- NPWR07122_00 ? Deadfall Adventures: Heart of Atlantis
+- NPWR07128_00 ? Tokyo Twilight Ghost Hunters
+- NPWR07143_00 ? F1® 2014
+- NPWR07172_00 ? Eiyuu Senki - The World Conquest
+- NPWR07178_00 ? Falling Skies: The Game
+- NPWR07214_00 ? この大空に、翼をひろげて CRUISE SIGN
+- NPWR07216_00 ? 真・三國無双７ Empires
+- NPWR07220_00 ? Assassin's Creed® Rogue
+- NPWR07252_00 ? 麻雀ワールドW
+- NPWR07292_00 ? ゴジラ-GODZILLA-
+- NPWR07296_00 ? Tears to Tiara Ⅱ Heir of the Overlord
+- NPWR07306_00 ? MLB® 15 The Show™
+- NPWR07313_00 ? 仮面ライダー　サモンライド！
 
-## Set 10
+- NPWR07315_00 ? シャイニング・レゾナンス
+- NPWR07319_00 ? 龍が如く０　誓いの場所
+- NPWR07321_00 ? LOS 40 PRINCIPALES: KARAOKE PARTY
+- NPWR07328_00 ? La Voz Vol. 2
+- NPWR07332_00 ? WORLD SOCCER Winning Eleven 2015
+- NPWR07333_00 ? WORLD SOCCER Winning Eleven 2015
+- NPWR07334_00 ? Pro Evolution Soccer 2015
+- NPWR07335_00 ? Pro Evolution Soccer 2015
+- NPWR07359_00 ? Saints Row: Gat out of Hell
+- NPWR07394_00 ? Odin Sphere Leifthrasir
+- NPWR07399_00 ? XBLAZE LOST : MEMORIES
+- NPWR07424_00 ? LEGO® DIMENSIONS™
+- NPWR07430_00 ? 黒蝶のサイケデリカ
+- NPWR07439_00 ? 戦極姫5～戦禍断つ覇王の系譜～
+- NPWR07444_00 ? 大戦略エクシード２
+- NPWR07446_00 ? 憂世ノ志士
+- NPWR07450_00 ? プロ野球スピリッツ2015
+- NPWR07478_00 ? Motorcycle Club
+- NPWR07480_00 ? Legend of Kay Anniversary
+- NPWR07515_00 ? Rugby 15
+- NPWR07534_00 ? The Evil Within
+- NPWR07535_00 ? The Evil Within
+- NPWR07543_00 ? はじめの一歩
+- NPWR07556_00 ? Tokyo Twilight Ghost Hunters
+- NPWR07574_00 ? 光明之響
+- NPWR07631_00 ? Class of Heroes 2G
+- NPWR07672_00 ? 電撃文庫 FIGHTING CLIMAX トロフィーセット
+- NPWR07689_00 ? ブレイドストーム　百年戦争＆ナイトメア
+- NPWR07697_00 ? Tears to Tiara Ⅱ Heir of the Overlord
+- NPWR07753_00 ? BLAZBLUE CHRONOPHANTASMA EXTEND Trophy
+- NPWR07780_00 ? BADLAND
+- NPWR07801_00 ? Chariot
+- NPWR07804_00 ? 第３次スーパーロボット大戦Ｚ　天獄篇
+- NPWR07830_00 ? Arcana Heart 3 LOVE MAX!!!!!
+- NPWR07867_00 ? 戦国BASARA4 皇
+- NPWR07876_00 ? ひぐらしのなく頃に粋
+- NPWR07881_00 ? Game of Thrones
+- NPWR07927_00 ? Life Is Strange™
+- NPWR07958_00 ? TRANSFORMERS: Devastation
+- NPWR07998_00 ? DEAD OR ALIVE 5 Last Round
+- NPWR08037_00 ? Rewrite
+- NPWR08047_00 ? STARWHAL
+- NPWR08052_00 ? Ride
+- NPWR08071_00 ? 戦国無双４-Ⅱ
+- NPWR08075_00 ? 夏色ハイスクル青春白書
+- NPWR08097_00 ? Winning Post 8 2015
+- NPWR08135_00 ? 魔物獵人FRONTIER G
+- NPWR08138_00 ? J-STARS Victory VS+ Trophy Set
+- NPWR08141_00 ? LEGO® Jurassic World™
+- NPWR08153_00 ? J-STARS Victory VS+ Trophy Set
+- NPWR08162_00 ? Farming Simulator 15
+- NPWR08167_00 ? METAL GEAR SOLID V: THE PHANTOM PAIN
+- NPWR08180_00 ? ワンピース 海賊無双３
+- NPWR08208_00 ? Dragon Fin Soup
+- NPWR08224_00 ? MotoGP™15
+- NPWR08227_00 ? 真・三國無雙７ Empires
+- NPWR08228_00 ? DYNASTY WARRIORS 8 Empires
+- NPWR08231_00 ? Yoru no Naikuni
+- NPWR08234_00 ? Adventure Time: Finn and Jake Investigations
+- NPWR08250_00 ? 동경신세록 Operation Abyss
+- NPWR08251_00 ? Call of Duty®: Black Ops III
+- NPWR08253_00 ? XBLAZE LOST : MEMORIES
+- NPWR08256_00 ? Sword Art Online: Lost Song
+- NPWR08265_00 ? STARWHAL
+- NPWR08279_00 ? STEINS;GATE
+- NPWR08285_00 ? The Awakened Fate Ultimatum
+- NPWR08288_00 ? CHAOS;CHILD
+- NPWR08298_00 ? ドラゴンクエストヒーローズ　闇竜と世界樹の城
+- NPWR08308_00 ? 影牢 ～もう１人のプリンセス～
+- NPWR08321_00 ? Kung Fu Panda: Enfrentamiento de Leyendas Legendarias
+- NPWR08324_00 ? 大戦略　大東亜興亡史３トロフィーセット
+- NPWR08325_00 ? 現代大戦略2016～秩序の崩壊・覇権国家失墜～
+- NPWR08331_00 ? Madden NFL 16
+- NPWR08354_00 ? 電擊文庫 FIGHTING CLIMAX 獎盃組
+- NPWR08358_00 ? Disney Infinity 3.0
+- NPWR08364_00 ? Teenage Mutant Ninja Turtles™: Mutants in Manhattan
+- NPWR08380_00 ? Chariot
+- NPWR08388_00 ? Shovel Knight: Treasure Trove
+- NPWR08418_00 ? STEINS;GATE
+- NPWR08437_00 ? BLADESTORM: Nightmare
+- NPWR08462_00 ? 恋姫†演武 トロフィーセット
+- NPWR08464_00 ? Space Hulk
+- NPWR08486_00 ? 5 Star Wrestling
+- NPWR08503_00 ? NHL® Legacy Trophies
+- NPWR08511_00 ? XBLAZE CODE : EMBRYO
+- NPWR08539_00 ? Skylanders® SuperChargers
+- NPWR08547_00 ? 人中之龍０　誓約的場所
+- NPWR08560_00 ? Tales of Zestiria
+- NPWR08563_00 ? Monster Jam
+- NPWR08581_00 ? Rogue Legacy
+- NPWR08584_00 ? Tales of Zestiria
+- NPWR08599_00 ? NOBUNAGA'S AMBITION: Sphere of Influence
+- NPWR08617_00 ? ONE PIECE: PIRATE WARRIORS 3
+- NPWR08673_00 ? WRC 5
+- NPWR08689_00 ? Tour de France 2015
+- NPWR08705_00 ? Rugby World Cup 2015
+- NPWR08709_00 ? GODZILLA
+- NPWR08716_00 ? Guitar Hero Live
+- NPWR08725_00 ? FIFA 16
+- NPWR08805_00 ? Resident Evil 0
+- NPWR08809_00 ? Lost Dimension
+- NPWR08811_00 ? うたわれるもの 偽りの仮面
+- NPWR08827_00 ? The Book of Unwritten Tales 2
+- NPWR08852_00 ? Dengeki Bunko: Fighting Climax Trophy Set
+- NPWR08858_00 ? Mighty No. 9
+- NPWR08862_00 ? Dengeki Bunko: Fighting Climax Trophy Set
+- NPWR08881_00 ? Just Dance® 2016
+- NPWR08889_00 ? IS＜インフィニット・ストラトス＞2
+ラブ アンド パージ
+- NPWR08893_00 ? NBA 2K16
+- NPWR08911_00 ? 不思議の幻想郷-THE TOWER OF DESIRE-
+- NPWR08923_00 ? LEGO® MARVEL's Avengers
+- NPWR08945_00 ? Amplitude
+- NPWR08958_00 ? ペルソナ５
+- NPWR08965_00 ? Minecraft: Story Mode
+- NPWR08976_00 ? Saint Seiya: Soldiers' Soul
+- NPWR08994_00 ? Space Hulk
+- NPWR09007_00 ? NASCAR '15
+- NPWR09013_00 ? ワールドトリガー　ボーダレスミッション
+- NPWR09020_00 ? 魔都紅色幽撃隊 DAYBREAK SPECIAL GIGS JAPAN TOUR
+- NPWR09025_00 ? NITROPLUS BLASTERZ -HEROINES INFINITE DUEL-
+- NPWR09061_00 ? RUGBY CHALLENGE 3
+- NPWR09091_00 ? Barbie and Her Sisters Puppy Rescue
+- NPWR09099_00 ? WWE 2K16
+- NPWR09144_00 ? Winning Eleven 2016
+- NPWR09147_00 ? Pro Evolution Soccer 2016
+- NPWR09148_00 ? Pro Evolution Soccer 2016
+- NPWR09181_00 ? THE BIT.TRIP
+- NPWR09196_00 ? Tony Hawk's® Pro Skater™ 5
+- NPWR09212_00 ? Lost Dimension
+- NPWR09217_00 ? STEINS;GATE 0
+- NPWR09221_00 ? Saint Seiya: Soldiers' Soul
+- NPWR09224_00 ? アルスラーン戦記×無双
+- NPWR09228_00 ? Goat Simulator
+- NPWR09249_00 ? Deception IV: The Nightmare Princess
+- NPWR09250_00 ? Deception IV: The Nightmare Princess
+- NPWR09251_00 ? Monster High - New Ghoul in School
+- NPWR09318_00 ? SAMURAI WARRIORS 4-Ⅱ
+- NPWR09320_00 ? River City Super Sports Challenge
 
-- NPWR03297_00
-- NPWR03319_00
-- NPWR03322_00
-- NPWR03335_00
-- NPWR03337_00
-- NPWR03350_00
-- NPWR03351_00
-- NPWR03361_00
-- NPWR03378_00
-- NPWR03382_00
-- NPWR03400_00
-- NPWR03406_00
-- NPWR03410_00
-- NPWR03414_00
-- NPWR03418_00
-- NPWR03421_00
-- NPWR03436_00
-- NPWR03464_00
-- NPWR03465_00
-- NPWR03466_00
-- NPWR03468_00
-- NPWR03480_00
-- NPWR03481_00
-- NPWR03485_00
-- NPWR03489_00
-- NPWR03490_00
-- NPWR03491_00
-- NPWR03493_00
-- NPWR03495_00
-- NPWR03500_00
-- NPWR03501_00
-- NPWR03505_00
-- NPWR03509_00
-- NPWR03514_00
-- NPWR03519_00
-- NPWR03520_00
-- NPWR03522_00
-- NPWR03525_00
-- NPWR03526_00
-- NPWR03529_00
-- NPWR03534_00
-- NPWR03545_00
-- NPWR03546_00
-- NPWR03550_00
-- NPWR03554_00
-- NPWR03558_00
-- NPWR03559_00
-- NPWR03577_00
-- NPWR03578_00
-- NPWR03580_00
-- NPWR03581_00
-- NPWR03591_00
-- NPWR03594_00
-- NPWR03595_00
-- NPWR03598_00
-- NPWR03601_00
-- NPWR03606_00
-- NPWR03610_00
-- NPWR03612_00
-- NPWR03613_00
-- NPWR03622_00
-- NPWR03629_00
-- NPWR03632_00
-- NPWR03641_00
-- NPWR03642_00
-- NPWR03649_00
-- NPWR03650_00
-- NPWR03652_00
-- NPWR03657_00
-- NPWR03661_00
-- NPWR03664_00
-- NPWR03670_00
-- NPWR03680_00
-- NPWR03681_00
-- NPWR03684_00
-- NPWR03686_00
-- NPWR03690_00
-- NPWR03692_00
-- NPWR03693_00
-- NPWR03695_00
-- NPWR03699_00
-- NPWR03709_00
-- NPWR03714_00
-- NPWR03718_00
-- NPWR03722_00
-- NPWR03724_00
-- NPWR03725_00
-- NPWR03726_00
-- NPWR03729_00
-- NPWR03734_00
-- NPWR03740_00
-- NPWR03742_00
-- NPWR03745_00
-- NPWR03752_00
-- NPWR03754_00
-- NPWR03760_00
-- NPWR03768_00
-- NPWR03769_00
-- NPWR03771_00
-- NPWR03772_00
-
-## Set 11
-
-- NPWR03776_00
-- NPWR03778_00
-- NPWR03780_00
-- NPWR03781_00
-- NPWR03797_00
-- NPWR03805_00
-- NPWR03806_00
-- NPWR03808_00
-- NPWR03812_00
-- NPWR03814_00
-- NPWR03819_00
-- NPWR03821_00
-- NPWR03824_00
-- NPWR03830_00
-- NPWR03836_00
-- NPWR03845_00
-- NPWR03848_00
-- NPWR03849_00
-- NPWR03852_00
-- NPWR03854_00
-- NPWR03880_00
-- NPWR03885_00
-- NPWR03903_00
-- NPWR03907_00
-- NPWR03911_00
-- NPWR03936_00
-- NPWR03948_00
-- NPWR03953_00
-- NPWR03961_00
-- NPWR03981_00
-- NPWR03982_00
-- NPWR03984_00
-- NPWR03990_00
-- NPWR04000_00
-- NPWR04001_00
-- NPWR04003_00
-- NPWR04007_00
-- NPWR04008_00
-- NPWR04019_00
-- NPWR04020_00
-- NPWR04032_00
-- NPWR04033_00
-- NPWR04034_00
-- NPWR04036_00
-- NPWR04063_00
-- NPWR04066_00
-- NPWR04072_00
-- NPWR04077_00
-- NPWR04085_00
-- NPWR04087_00
-- NPWR04101_00
-- NPWR04104_00
-- NPWR04108_00
-- NPWR04119_00
-- NPWR04128_00
-- NPWR04136_00
-- NPWR04140_00
-- NPWR04148_00
-- NPWR04150_00
-- NPWR04151_00
-- NPWR04155_00
-- NPWR04156_00
-- NPWR04158_00
-- NPWR04163_00
-- NPWR04172_00
-- NPWR04173_00
-- NPWR04175_00
-- NPWR04178_00
-- NPWR04202_00
-- NPWR04204_00
-- NPWR04205_00
-- NPWR04206_00
-- NPWR04207_00
-- NPWR04209_00
-- NPWR04211_00
-- NPWR04215_00
-- NPWR04227_00
-- NPWR04234_00
-- NPWR04263_00
-- NPWR04269_00
-- NPWR04270_00
-- NPWR04282_00
-- NPWR04288_00
-- NPWR04293_00
-- NPWR04296_00
-- NPWR04298_00
-- NPWR04303_00
-- NPWR04306_00
-- NPWR04311_00
-- NPWR04312_00
-- NPWR04317_00
-- NPWR04325_00
-- NPWR04327_00
-- NPWR04328_00
-- NPWR04333_00
-- NPWR04336_00
-- NPWR04338_00
-- NPWR04347_00
-- NPWR04352_00
-- NPWR04365_00
-
-## Set 12
-
-- NPWR04372_00
-- NPWR04374_00
-- NPWR04382_00
-- NPWR04388_00
-- NPWR04400_00
-- NPWR04402_00
-- NPWR04406_00
-- NPWR04412_00
-- NPWR04416_00
-- NPWR04418_00
-- NPWR04420_00
-- NPWR04423_00
-- NPWR04425_00
-- NPWR04426_00
-- NPWR04429_00
-- NPWR04430_00
-- NPWR04433_00
-- NPWR04443_00
-- NPWR04447_00
-- NPWR04454_00
-- NPWR04461_00
-- NPWR04463_00
-- NPWR04465_00
-- NPWR04492_00
-- NPWR04494_00
-- NPWR04495_00
-- NPWR04497_00
-- NPWR04500_00
-- NPWR04503_00
-- NPWR04508_00
-- NPWR04518_00
-- NPWR04524_00
-- NPWR04527_00
-- NPWR04529_00
-- NPWR04531_00
-- NPWR04533_00
-- NPWR04535_00
-- NPWR04537_00
-- NPWR04552_00
-- NPWR04562_00
-- NPWR04563_00
-- NPWR04575_00
-- NPWR04578_00
-- NPWR04584_00
-- NPWR04605_00
-- NPWR04608_00
-- NPWR04609_00
-- NPWR04611_00
-- NPWR04616_00
-- NPWR04620_00
-- NPWR04633_00
-- NPWR04652_00
-- NPWR04656_00
-- NPWR04657_00
-- NPWR04660_00
-- NPWR04670_00
-- NPWR04672_00
-- NPWR04679_00
-- NPWR04682_00
-- NPWR04685_00
-- NPWR04688_00
-- NPWR04693_00
-- NPWR04695_00
-- NPWR04706_00
-- NPWR04712_00
-- NPWR04714_00
-- NPWR04716_00
-- NPWR04720_00
-- NPWR04738_00
-- NPWR04746_00
-- NPWR04749_00
-- NPWR04759_00
-- NPWR04773_00
-- NPWR04775_00
-- NPWR04787_00
-- NPWR04799_00
-- NPWR04811_00
-- NPWR04812_00
-- NPWR04836_00
-- NPWR04837_00
-- NPWR04847_00
-- NPWR04864_00
-- NPWR04870_00
-- NPWR04874_00
-- NPWR04877_00
-- NPWR04891_00
-- NPWR04893_00
-- NPWR04894_00
-- NPWR04895_00
-- NPWR04897_00
-- NPWR04898_00
-- NPWR04910_00
-- NPWR04911_00
-- NPWR04915_00
-- NPWR04918_00
-- NPWR04922_00
-- NPWR04936_00
-- NPWR04937_00
-- NPWR04940_00
-- NPWR04948_00
-
-## Set 13
-
-- NPWR04979_00
-- NPWR04986_00
-- NPWR04997_00
-- NPWR05003_00
-- NPWR05005_00
-- NPWR05011_00
-- NPWR05014_00
-- NPWR05019_00
-- NPWR05028_00
-- NPWR05031_00
-- NPWR05041_00
-- NPWR05045_00
-- NPWR05046_00
-- NPWR05049_00
-- NPWR05054_00
-- NPWR05072_00
-- NPWR05076_00
-- NPWR05079_00
-- NPWR05091_00
-- NPWR05102_00
-- NPWR05108_00
-- NPWR05109_00
-- NPWR05110_00
-- NPWR05115_00
-- NPWR05116_00
-- NPWR05120_00
-- NPWR05139_00
-- NPWR05140_00
-- NPWR05149_00
-- NPWR05163_00
-- NPWR05167_00
-- NPWR05171_00
-- NPWR05175_00
-- NPWR05178_00
-- NPWR05184_00
-- NPWR05185_00
-- NPWR05207_00
-- NPWR05209_00
-- NPWR05213_00
-- NPWR05232_00
-- NPWR05256_00
-- NPWR05260_00
-- NPWR05271_00
-- NPWR05292_00
-- NPWR05300_00
-- NPWR05308_00
-- NPWR05321_00
-- NPWR05334_00
-- NPWR05342_00
-- NPWR05393_00
-- NPWR05394_00
-- NPWR05400_00
-- NPWR05412_00
-- NPWR05415_00
-- NPWR05416_00
-- NPWR05439_00
-- NPWR05443_00
-- NPWR05479_00
-- NPWR05486_00
-- NPWR05487_00
-- NPWR05520_00
-- NPWR05571_00
-- NPWR05594_00
-- NPWR05597_00
-- NPWR05625_00
-- NPWR05636_00
-- NPWR05640_00
-- NPWR05647_00
-- NPWR05648_00
-- NPWR05654_00
-- NPWR05655_00
-- NPWR05661_00
-- NPWR05666_00
-- NPWR05670_00
-- NPWR05676_00
-- NPWR05679_00
-- NPWR05696_00
-- NPWR05711_00
-- NPWR05735_00
-- NPWR05737_00
-- NPWR05746_00
-- NPWR05747_00
-- NPWR05751_00
-- NPWR05787_00
-- NPWR05794_00
-- NPWR05796_00
-- NPWR05808_00
-- NPWR05831_00
-- NPWR05839_00
-- NPWR05840_00
-- NPWR05868_00
-- NPWR05881_00
-- NPWR05887_00
-- NPWR05907_00
-- NPWR05915_00
-- NPWR05920_00
-- NPWR05922_00
-- NPWR05938_00
-- NPWR05944_00
-- NPWR05945_00
-
-## Set 14
-
-- NPWR05946_00
-- NPWR05952_00
-- NPWR05982_00
-- NPWR06010_00
-- NPWR06021_00
-- NPWR06032_00
-- NPWR06034_00
-- NPWR06035_00
-- NPWR06052_00
-- NPWR06091_00
-- NPWR06110_00
-- NPWR06112_00
-- NPWR06121_00
-- NPWR06122_00
-- NPWR06130_00
-- NPWR06135_00
-- NPWR06140_00
-- NPWR06159_00
-- NPWR06172_00
-- NPWR06183_00
-- NPWR06200_00
-- NPWR06202_00
-- NPWR06208_00
-- NPWR06214_00
-- NPWR06224_00
-- NPWR06231_00
-- NPWR06243_00
-- NPWR06250_00
-- NPWR06254_00
-- NPWR06257_00
-- NPWR06264_00
-- NPWR06265_00
-- NPWR06281_00
-- NPWR06306_00
-- NPWR06308_00
-- NPWR06310_00
-- NPWR06314_00
-- NPWR06320_00
-- NPWR06363_00
-- NPWR06364_00
-- NPWR06370_00
-- NPWR06384_00
-- NPWR06385_00
-- NPWR06386_00
-- NPWR06387_00
-- NPWR06414_00
-- NPWR06419_00
-- NPWR06437_00
-- NPWR06444_00
-- NPWR06460_00
-- NPWR06468_00
-- NPWR06473_00
-- NPWR06487_00
-- NPWR06494_00
-- NPWR06512_00
-- NPWR06515_00
-- NPWR06524_00
-- NPWR06531_00
-- NPWR06538_00
-- NPWR06542_00
-- NPWR06575_00
-- NPWR06596_00
-- NPWR06654_00
-- NPWR06659_00
-- NPWR06664_00
-- NPWR06678_00
-- NPWR06683_00
-- NPWR06689_00
-- NPWR06708_00
-- NPWR06715_00
-- NPWR06717_00
-- NPWR06724_00
-- NPWR06729_00
-- NPWR06740_00
-- NPWR06751_00
-- NPWR06752_00
-- NPWR06754_00
-- NPWR06757_00
-- NPWR06760_00
-- NPWR06764_00
-- NPWR06778_00
-- NPWR06783_00
-- NPWR06855_00
-- NPWR06868_00
-- NPWR06900_00
-- NPWR06949_00
-- NPWR06955_00
-- NPWR06957_00
-- NPWR06959_00
-- NPWR06960_00
-- NPWR06989_00
-- NPWR06992_00
-- NPWR07017_00
-- NPWR07036_00
-- NPWR07057_00
-- NPWR07086_00
-- NPWR07090_00
-- NPWR07096_00
-- NPWR07114_00
-- NPWR07122_00
-
-## Set 15
-
-- NPWR07128_00
-- NPWR07143_00
-- NPWR07172_00
-- NPWR07178_00
-- NPWR07214_00
-- NPWR07216_00
-- NPWR07220_00
-- NPWR07252_00
-- NPWR07292_00
-- NPWR07296_00
-- NPWR07306_00
-- NPWR07313_00
-- NPWR07315_00
-- NPWR07319_00
-- NPWR07321_00
-- NPWR07328_00
-- NPWR07332_00
-- NPWR07333_00
-- NPWR07334_00
-- NPWR07335_00
-- NPWR07359_00
-- NPWR07394_00
-- NPWR07399_00
-- NPWR07424_00
-- NPWR07430_00
-- NPWR07439_00
-- NPWR07444_00
-- NPWR07446_00
-- NPWR07450_00
-- NPWR07478_00
-- NPWR07480_00
-- NPWR07515_00
-- NPWR07534_00
-- NPWR07535_00
-- NPWR07543_00
-- NPWR07556_00
-- NPWR07574_00
-- NPWR07631_00
-- NPWR07672_00
-- NPWR07689_00
-- NPWR07697_00
-- NPWR07753_00
-- NPWR07780_00
-- NPWR07801_00
-- NPWR07804_00
-- NPWR07830_00
-- NPWR07867_00
-- NPWR07876_00
-- NPWR07881_00
-- NPWR07927_00
-- NPWR07958_00
-- NPWR07998_00
-- NPWR08037_00
-- NPWR08047_00
-- NPWR08052_00
-- NPWR08071_00
-- NPWR08075_00
-- NPWR08097_00
-- NPWR08135_00
-- NPWR08138_00
-- NPWR08141_00
-- NPWR08153_00
-- NPWR08162_00
-- NPWR08167_00
-- NPWR08180_00
-- NPWR08208_00
-- NPWR08224_00
-- NPWR08227_00
-- NPWR08228_00
-- NPWR08231_00
-- NPWR08234_00
-- NPWR08250_00
-- NPWR08251_00
-- NPWR08253_00
-- NPWR08256_00
-- NPWR08265_00
-- NPWR08279_00
-- NPWR08285_00
-- NPWR08288_00
-- NPWR08298_00
-- NPWR08308_00
-- NPWR08321_00
-- NPWR08324_00
-- NPWR08325_00
-- NPWR08331_00
-- NPWR08354_00
-- NPWR08358_00
-- NPWR08364_00
-- NPWR08380_00
-- NPWR08388_00
-- NPWR08418_00
-- NPWR08437_00
-- NPWR08462_00
-- NPWR08464_00
-- NPWR08486_00
-- NPWR08503_00
-- NPWR08511_00
-- NPWR08539_00
-- NPWR08547_00
-- NPWR08560_00
-
-## Set 16
-
-- NPWR08563_00
-- NPWR08581_00
-- NPWR08584_00
-- NPWR08599_00
-- NPWR08617_00
-- NPWR08673_00
-- NPWR08689_00
-- NPWR08705_00
-- NPWR08709_00
-- NPWR08716_00
-- NPWR08725_00
-- NPWR08805_00
-- NPWR08809_00
-- NPWR08811_00
-- NPWR08827_00
-- NPWR08852_00
-- NPWR08858_00
-- NPWR08862_00
-- NPWR08881_00
-- NPWR08889_00
-- NPWR08893_00
-- NPWR08911_00
-- NPWR08923_00
-- NPWR08945_00
-- NPWR08958_00
-- NPWR08965_00
-- NPWR08976_00
-- NPWR08994_00
-- NPWR09007_00
-- NPWR09013_00
-- NPWR09020_00
-- NPWR09025_00
-- NPWR09061_00
-- NPWR09091_00
-- NPWR09099_00
-- NPWR09144_00
-- NPWR09147_00
-- NPWR09148_00
-- NPWR09181_00
-- NPWR09196_00
-- NPWR09212_00
-- NPWR09217_00
-- NPWR09221_00
-- NPWR09224_00
-- NPWR09228_00
-- NPWR09249_00
-- NPWR09250_00
-- NPWR09251_00
-- NPWR09318_00
-- NPWR09320_00
-- NPWR09350_00
-- NPWR09384_00
-- NPWR09401_00
-- NPWR09417_00
-- NPWR09420_00
-- NPWR09422_00
-- NPWR09453_00
-- NPWR09545_00
-- NPWR09557_00
-- NPWR09600_00
-- NPWR09648_00
-- NPWR09650_00
-- NPWR09684_00
-- NPWR09694_00
-- NPWR09718_00
-- NPWR09725_00
-- NPWR09771_00
-- NPWR09772_00
-- NPWR09814_00
-- NPWR09815_00
-- NPWR09828_00
-- NPWR09851_00
-- NPWR09877_00
-- NPWR09882_00
-- NPWR09895_00
-- NPWR09930_00
-- NPWR09957_00
-- NPWR09967_00
-- NPWR10029_00
-- NPWR10040_00
-- NPWR10117_00
-- NPWR10125_00
-- NPWR10126_00
-- NPWR10153_00
-- NPWR10158_00
-- NPWR10185_00
-- NPWR10215_00
-- NPWR10256_00
-- NPWR10267_00
-- NPWR10301_00
-- NPWR10310_00
-- NPWR10330_00
-- NPWR10400_00
-- NPWR10432_00
-- NPWR10453_00
-- NPWR10459_00
-- NPWR10579_00
-- NPWR10638_00
-- NPWR10682_00
-- NPWR10691_00
-
-## Set 17
-
-- NPWR10696_00
-- NPWR10768_00
-- NPWR10811_00
-- NPWR10869_00
-- NPWR10901_00
-- NPWR10953_00
-- NPWR10954_00
-- NPWR10990_00
-- NPWR11018_00
-- NPWR11023_00
-- NPWR11024_00
-- NPWR11032_00
-- NPWR11055_00
-- NPWR11083_00
-- NPWR11170_00
-- NPWR11244_00
-- NPWR11346_00
-- NPWR11385_00
-- NPWR11444_00
-- NPWR11535_00
-- NPWR11582_00
-- NPWR11597_00
-- NPWR11721_00
-- NPWR11752_00
-- NPWR11759_00
-- NPWR11799_00
-- NPWR11835_00
-- NPWR11856_00
-- NPWR11866_00
-- NPWR11984_00
-- NPWR12108_00
-- NPWR12196_00
-- NPWR12284_00
-- NPWR12737_00
-- NPWR12797_00
-- NPWR12875_00
-- NPWR12913_00
-- NPWR12934_00
-- NPWR13058_00
-- NPWR13116_00
-- NPWR13117_00
-- NPWR13195_00
-- NPWR13383_00
-- NPWR13742_00
-- NPWR14044_00
-- NPWR14057_00
-- NPWR14085_00
-- NPWR14169_00
-- NPWR14221_00
-- NPWR15028_00
-- NPWR15257_00
-- NPWR16503_00
-- NPWR16811_00
-- NPWR16845_00
-- NPWR16882_00
+- NPWR09350_00 ? Atelier Sophie The Alchemist of the Wonder Book
+- NPWR09384_00 ? LOS 40 PRINCIPALES: KARAOKE PARTY VOL 2
+- NPWR09401_00 ? 戦国無双4 Empires
+- NPWR09417_00 ? Rugby League Live 3
+- NPWR09420_00 ? STEINS;GATE 0
+- NPWR09422_00 ? Metropolis Defenders
+- NPWR09453_00 ? Goosebumps: The Game
+- NPWR09545_00 ? ブレードアークス from シャイニングEX
+- NPWR09557_00 ? Caligula －カリギュラ－
+- NPWR09600_00 ? ドラゴンクエストビルダーズ
+- NPWR09648_00 ? 実況パワフルプロ野球２０１６
+- NPWR09650_00 ? 実況パワフルプロ野球２０１６
+- NPWR09684_00 ? Barbie Y Sus Hermanas Refugio para Cachorros
+- NPWR09694_00 ? ジョジョの奇妙な冒険　アイズオブヘブン
+- NPWR09718_00 ? スターオーシャン５ -Integrity and Faithlessness-
+- NPWR09725_00 ? 三國志13
+- NPWR09771_00 ? Handball 16
+- NPWR09772_00 ? MLB® The Show™ 16
+- NPWR09814_00 ? LEGO® STAR WARS™: The Force Awakens
+- NPWR09815_00 ? THE LEGEND OF HEROES: TRAILS OF COLD STEEL
+- NPWR09828_00 ? 仮面ライダー バトライド・ウォー 創生
+- NPWR09851_00 ? La Voz Vol. 3
+- NPWR09877_00 ? Rainbow Skies
+- NPWR09882_00 ? 進撃の巨人
+- NPWR09895_00 ? Monster High: Aller Anfang ist Schwer
+- NPWR09930_00 ? 龍が如く 極
+- NPWR09957_00 ? Teslagrad
+- NPWR09967_00 ? 電撃文庫 FIGHTING CLIMAX IGNITION
+- NPWR10029_00 ? Grand Theft Auto: San Andreas™
+- NPWR10040_00 ? THE LEGEND OF HEROES: TRAILS OF COLD STEEL
+- NPWR10117_00 ? Whitetail Challenge trophy set
+- NPWR10125_00 ? STAR OCEAN Second Evolution
+- NPWR10126_00 ? Guilty Gear Xrd -Revelator- Trophy
+- NPWR10153_00 ? ARSLAN: THE WARRIORS OF LEGEND
+- NPWR10158_00 ? Nuclear Throne
+- NPWR10185_00 ? Winning Post 8 2016
+- NPWR10215_00 ? ドラゴンクエストヒーローズⅡ　双子の王と予言の終わり
+- NPWR10256_00 ? 討鬼伝２
+- NPWR10267_00 ? Tales of Berseria
+- NPWR10301_00 ? BLAZBLUE CENTRALFICTION Trophy
+- NPWR10310_00 ? Aegis of Earth: Protonovus Assault
+- NPWR10330_00 ? うたわれるもの 二人の白皇
+- NPWR10400_00 ? Madden NFL 17
+- NPWR10432_00 ? SAMURAI WARRIORS 4 Empires
+- NPWR10453_00 ? 信長の野望・創造 戦国立志伝
+- NPWR10459_00 ? Aegis of Earth: Protonovus Assault
+- NPWR10579_00 ? Tumblestone
+- NPWR10638_00 ? 戦国BASARA 真田幸村伝
+- NPWR10682_00 ? SPACE HULK
+- NPWR10691_00 ? Blue-Collar Astronaut
+- NPWR10696_00 ? Odin Sphere Leifthrasir
+- NPWR10768_00 ? Skylight Freerange 2: Gachduine
+- NPWR10811_00 ? Super Robot Wars OG The Moon Dwellers
+- NPWR10869_00 ? FIFA 17
+- NPWR10901_00 ? Just Dance® 2017
+- NPWR10953_00 ? A.O.T. Wings of Freedom
+- NPWR10954_00 ? Attack on Titan
+- NPWR10990_00 ? 真・三國無双 英傑伝
+- NPWR11018_00 ? Winning Eleven 2017
+- NPWR11023_00 ? Pro Evolution Soccer 2017
+- NPWR11024_00 ? Pro Evolution Soccer 2017
+- NPWR11032_00 ? Skylanders™ Imaginators
+- NPWR11055_00 ? WWE 2K17
+- NPWR11083_00 ? 真 流行り神２
+- NPWR11170_00 ? 99Vidas
+- NPWR11244_00 ? Batman
+- NPWR11346_00 ? Dungeon Punks
+- NPWR11385_00 ? Tokyo Twilight Ghost Hunters Daybreak: Special Gigs
+- NPWR11444_00 ? NBA 2K17
+- NPWR11535_00 ? ベルセルク無双
+- NPWR11582_00 ? Handball 17
+- NPWR11597_00 ? THE LEGEND OF HEROES: TRAILS OF COLD STEEL II
+- NPWR11721_00 ? UNDER NIGHT IN-BIRTH Exe:Late[st]
+- NPWR11752_00 ? Tokyo Twilight Ghost Hunters Daybreak: Special Gigs
+- NPWR11759_00 ? STEINS;GATE 0
+- NPWR11799_00 ? THE BIT.TRIP
+- NPWR11835_00 ? 戦国無双 ～真田丸～
+- NPWR11856_00 ? レイジングループ
+- NPWR11866_00 ? Persona 5
+- NPWR11984_00 ? アドベンチャー・タイム　ネームレス王国の3人のプリンセス
+- NPWR12108_00 ? Winning Post 8 2017
+- NPWR12196_00 ? Stardew Valley
+- NPWR12284_00 ? Cars 3: Driven to Win
+- NPWR12737_00 ? 女神異聞錄５
+- NPWR12797_00 ? Revenant Saga
+- NPWR12875_00 ? FIFA 18
+- NPWR12913_00 ? Winning Eleven 2018
+- NPWR12934_00 ? SAMURAI WARRIORS: Spirit of Sanada
+- NPWR13058_00 ? 페르소나 5
+- NPWR13116_00 ? PRO EVOLUTION SOCCER 2018
+- NPWR13117_00 ? PRO EVOLUTION SOCCER 2018
+- NPWR13195_00 ? Just Dance® 2018
+- NPWR13383_00 ? NBA 2K18
+- NPWR13742_00 ? SteamWorld Dig 2
+- NPWR14044_00 ? フォルティッシモ
+- NPWR14057_00 ? Race The Sun
+- NPWR14085_00 ? 99Vidas
+- NPWR14169_00 ? 7'scarlet
+- NPWR14221_00 ? The Lost Child
+- NPWR15028_00 ? Rainbow Skies
+- NPWR15257_00 ? FIFA 19
+- NPWR16503_00 ? Rainbow Skies
+- NPWR16811_00 ? スキとスキとでサンカク恋愛
+- NPWR16845_00 ? Almost There: The Platformer
+- NPWR16882_00 ? かりぐらし恋愛
 
